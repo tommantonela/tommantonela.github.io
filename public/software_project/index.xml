@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software_projects | Antonela Tommasel</title>
+    <link>/software_project/</link>
+      <atom:link href="/software_project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software_projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Software_projects</title>
+      <link>/software_project/</link>
+    </image>
+    
+    <item>
+      <title>ASPredictor</title>
+      <link>/software_project/as-predictor/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/software_project/as-predictor/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Extract-Detect.&lt;/em&gt; Parses Java source code from predefined versions and extracts packages dependency graphs, relying on a Java static analyzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Dep-Pred.&lt;/em&gt; Takes two dependency graphs as inputs, and produces an ordered list of predicted dependencies, relying on a trained binary classifier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Smell-Pred.&lt;/em&gt; Receives dependency graphs and the predicted dependencies, and identifies potentially ”new” AS in the expanded graph to appear in the next system version, which are ranked according to their relevance. Currently, three types of smells are supported: cyclic dependencies, hub-like dependencies and unstable dependencies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Eval.&lt;/em&gt; Compares the predicted dependencies and/or smells with the actual dependencies/smells, and computes typical Machine Learning metrics such as: precision, recall, F-measure and nDCG.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ASPredictor is licenced under the Apache License V2.0. Copyright 2019 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sen4Smells</title>
+      <link>/software_project/sens4smells/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/software_project/sens4smells/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Sen4Smells is tool for prioritizing architecture-sensitive smells based on a technical debt index (e.g., ADI, SDI, etc.) Sen4Smells is licenced under the Apache License V2.0.&lt;/p&gt;
+&lt;p&gt;The main functionality of the Sen4Smells is providing assistence to engineers for interpretating Technical Debt metrics in terms problematic Architectural Smells and system packages.&lt;/p&gt;
+&lt;p&gt;Sen4Smells is able to perform a sensitivity analysis for a collection of system values provided by a predetermined debt index. Our approach relies on two building blocks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The adaptation of an existing SA method to AS-based debt indices.&lt;/li&gt;
+&lt;li&gt;A decomposition strategy for dealing with the index at different granularity levels.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By leveraging on Architectural Smells, the goal of the Sensitivity Analysis is to understand how variations in the Technical Debt can be attributed to variations in features of system elements. To do so, the sensitivity analysis performs a screening of the multiple variables affecting the index over time, and returns the most sensitive ones (i.e., key elements) to the engineer (tool user). The inputs for this analysis are: a set of previous system versions, the formula for computing a particular Technical Debt, and the granularity level for the variables (e.g., smell types, individual smells, or packages).&lt;/p&gt;
+&lt;p&gt;The tool is designed as pipeline, in which existing modules for detecting smells and computing metrics from the source code can be configured. These smells and metrics depend on the Technical Debt under consideration, which is also a parameter for the pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>SMArtOp</title>
+      <link>/software_project/smartop/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/software_project/smartop/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;SMArtOp is a Java library for dividing the processing of large-scale sparse-matrix arithmetic operations on distributed environments.The software is designed for dividing and balancing the processing of large-scale sparse-matrix arithmetic operations into simpler and independent tasks to be executed in a distributed environment.&lt;/p&gt;
+&lt;p&gt;SMArtOp is licenced under the Apache License V2.0. Copyright 2016 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Antonela Tommasel</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Friend or Foe: Studying user Trustworthiness for Friend Recommendation in the Era of Misinformation</title>
+      <link>/publication/2019aike/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019aike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Social Network Analysis Techniques to Architectural Smell Prediction</title>
+      <link>/publication/2019icsa/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features for detecting aggression in social media: An exploratory study</title>
+      <link>/publication/2018asai/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
+      <link>/publication/2018scam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018scam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Network Analysis Techniques Help to Predict Design Dependencies? An Initial Study</title>
+      <link>/publication/2018icsa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual aggression detection through deep learning</title>
+      <link>/publication/2018coling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus community detection for multi-dimensional networks</title>
+      <link>/publication/2017clei/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017clei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Social Network Structure into Online Feature Selection.</title>
+      <link>/publication/2016ijcai/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Personality Traits in Followee Recommendation Algorithms</title>
+      <link>/publication/2015asai/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Metric for Assessing User Influence based on User Behaviour.</title>
+      <link>/publication/2015socinf/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015socinf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Technique for Weighting Multiple Factors in Followee Recommendation Algorithms</title>
+      <link>/publication/2015cpcr/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015cpcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
+      <link>/publication/2014argencon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014argencon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

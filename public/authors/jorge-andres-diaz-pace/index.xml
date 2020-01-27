@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Andres Diaz-Pace | Antonela Tommasel</title>
+    <link>/authors/jorge-andres-diaz-pace/</link>
+      <atom:link href="/authors/jorge-andres-diaz-pace/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Andres Diaz-Pace</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jorge Andres Diaz-Pace</title>
+      <link>/authors/jorge-andres-diaz-pace/</link>
+    </image>
+    
+    <item>
+      <title>Personalized architectural documentation based on stakeholders’ information needs</title>
+      <link>/publication/2014jserd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014jserd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dataset | Antonela Tommasel</title>
+    <link>/tags/dataset/</link>
+      <atom:link href="/tags/dataset/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dataset</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dataset</title>
+      <link>/tags/dataset/</link>
+    </image>
+    
+    <item>
+      <title>Hate Speech Bias</title>
+      <link>/project/hate-beholder/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/hate-beholder/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by Facebook as part of the 
+&lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniela Godoy - ISISTAN, CONICET-UNICEN, Argentina&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang - Queen Mary University of London, UK&lt;/li&gt;
+&lt;li&gt;Arkaitz Zubiaga - Queen Mary University of London, UK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An important goal for hate speech detection techniques is to ensure that they are not unduly biased towards or against
+particular norms of offence. Training data is usually obtained by manually annotating a set of texts. Thereby, the reliability
+of human annotations is essential. Meanwhile, the ability to let big data &amp;ldquo;speak for itself&amp;rdquo; has been questioned as its
+representativeness, spatiotemporal extent and uneven demographic information can make it subjective. We hypothesize
+that demographics substantially affect hate speech perception. In this context, the research question guiding this project is:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;em&gt;How do latent norms and biases caused by demographics derive in biased datasets, which affects the performance of hate speech detection systems?&lt;/em&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Faking It!</title>
+      <link>/project/faking-it/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/faking-it/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by Facebook as part of the 
+&lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/the-online-safety-benchmark-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Online Safety Benchmark request for proposals&amp;rdquo;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Social media has become the primary source of news for their users. Besides fostering social
+connections between persons, social networks also represent the ideal environment for undesirable
+phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake
+news, which all affect the individuals as well as the society as a whole. Thereby, in the last few years,
+the research on misinformation has received increasing attention. Nonetheless, even though some
+computational solutions have been presented, the lack of a common ground and public datasets has
+become one of the major barriers. Not only datasets are rare, but also, they are mostly limited to
+only the actual shared text, neglecting the importance of other features, such as social content and
+temporal information. In this scenario, this project proposes the creation of a publicly available
+dataset, comprising multi-sourced data and including diverse features related not only to the textual
+and multimedia content, but also to the social context of news and their temporal information. This
+dataset would not only allow tackling the task of fake news detection, but also studying their
+evolution, which, in turn, can foster the development of mitigation and debunking techniques.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Friends or Foe: Recommending friends in the misinformation era</title>
+      <link>/talk/roma2019/</link>
+      <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/roma2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

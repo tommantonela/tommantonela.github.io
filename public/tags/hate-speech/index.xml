@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hate Speech | Antonela Tommasel</title>
+    <link>/tags/hate-speech/</link>
+      <atom:link href="/tags/hate-speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hate Speech</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hate Speech</title>
+      <link>/tags/hate-speech/</link>
+    </image>
+    
+    <item>
+      <title>Hate Speech Bias</title>
+      <link>/project/hate-beholder/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/hate-beholder/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by Facebook as part of the 
+&lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniela Godoy - ISISTAN, CONICET-UNICEN, Argentina&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang - Queen Mary University of London, UK&lt;/li&gt;
+&lt;li&gt;Arkaitz Zubiaga - Queen Mary University of London, UK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An important goal for hate speech detection techniques is to ensure that they are not unduly biased towards or against
+particular norms of offence. Training data is usually obtained by manually annotating a set of texts. Thereby, the reliability
+of human annotations is essential. Meanwhile, the ability to let big data &amp;ldquo;speak for itself&amp;rdquo; has been questioned as its
+representativeness, spatiotemporal extent and uneven demographic information can make it subjective. We hypothesize
+that demographics substantially affect hate speech perception. In this context, the research question guiding this project is:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;em&gt;How do latent norms and biases caused by demographics derive in biased datasets, which affects the performance of hate speech detection systems?&lt;/em&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>/project/royal-society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/royal-society/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dependency-based Smells | Antonela Tommasel</title>
+    <link>/tags/dependency-based-smells/</link>
+      <atom:link href="/tags/dependency-based-smells/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dependency-based Smells</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Dependency-based Smells</title>
+      <link>/tags/dependency-based-smells/</link>
+    </image>
+    
+    <item>
+      <title>ASPredictor</title>
+      <link>/software_project/as-predictor/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/software_project/as-predictor/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Extract-Detect.&lt;/em&gt; Parses Java source code from predefined versions and extracts packages dependency graphs, relying on a Java static analyzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Dep-Pred.&lt;/em&gt; Takes two dependency graphs as inputs, and produces an ordered list of predicted dependencies, relying on a trained binary classifier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Smell-Pred.&lt;/em&gt; Receives dependency graphs and the predicted dependencies, and identifies potentially ”new” AS in the expanded graph to appear in the next system version, which are ranked according to their relevance. Currently, three types of smells are supported: cyclic dependencies, hub-like dependencies and unstable dependencies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Eval.&lt;/em&gt; Compares the predicted dependencies and/or smells with the actual dependencies/smells, and computes typical Machine Learning metrics such as: precision, recall, F-measure and nDCG.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ASPredictor is licenced under the Apache License V2.0. Copyright 2019 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

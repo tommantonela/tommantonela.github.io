@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alejandro Zunino | Antonela Tommasel</title>
+    <link>/authors/alejandro-zunino/</link>
+      <atom:link href="/authors/alejandro-zunino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alejandro Zunino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alejandro Zunino</title>
+      <link>/authors/alejandro-zunino/</link>
+    </image>
+    
+    <item>
+      <title>Recurrent Neural Networks for Predicting Mobile Device State</title>
+      <link>/publication/2018igi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018igi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMArtOp: A Java library for distributing high-dimensional sparse-matrix arithmetic operations</title>
+      <link>/publication/2017scico/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017scico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection</title>
+      <link>/publication/2016kais/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016kais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
+      <link>/publication/2014argencon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014argencon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

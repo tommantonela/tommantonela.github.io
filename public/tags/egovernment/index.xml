@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eGovernment | Antonela Tommasel</title>
+    <link>/tags/egovernment/</link>
+      <atom:link href="/tags/egovernment/index.xml" rel="self" type="application/rss+xml" />
+    <description>eGovernment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>eGovernment</title>
+      <link>/tags/egovernment/</link>
+    </image>
+    
+    <item>
+      <title>Digital Citizens</title>
+      <link>/project/digital-citizenship/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/digital-citizenship/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Democracy and formal political processes depend fundamentally on effective communication and
+informed decision-making on public issues. The development of digital technologies, the expansion
+of the Internet and the growth of social networks have generated profound changes in political
+forms at a global level, modifying the bases of citizen participation. These new technologies have
+been established as a new way to channel and facilitate citizen participation in a given territory,
+offering new communication tools with government entities and their authorities. EParticipation
+involves the use of the information and communication technologies, mainly Internet, as the means
+of participation in democratic and consultative social processes. The goal of eParticipation is to
+support active citizenship with the latest technological developments, increasing access and the
+possibility of participating, and promoting a government that is open and close to citizens.
+Considering that democratic systems favour the interests of large groups of citizens, the more voices
+supporting a political proposal, the greater their chances of success. However, achieving effective
+citizen participation is a challenge, given that the simple fact of having access to online services does
+not imply the willingness of citizens to participate. In this context, social media sites could have a
+preponderant role in terms of citizen participation, making individuals not only feel that they have
+access to the information directly and permanently, but also the right to be involved in the public
+discourse and decisions. Consequently, it is necessary to carry out studies for determining the
+current status and perspectives of citizen participation in the context of social media. Thereby, this
+project aims to study and characterize the relationship between digital citizens and government
+entities in social media, in the context of eParticipation, to enable the definition of practices and
+strategies that lead to the efficient use of social media for communication between public
+institutions and citizens.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

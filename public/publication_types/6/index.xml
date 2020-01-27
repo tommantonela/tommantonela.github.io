@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Antonela Tommasel</title>
+    <link>/publication_types/6/</link>
+      <atom:link href="/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>6</title>
+      <link>/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>On the Evaluation of Community Detection Algorithms on Heterogeneous Social Media Data</title>
+      <link>/publication/2018chapter/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Networks for Predicting Mobile Device State</title>
+      <link>/publication/2018igi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018igi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

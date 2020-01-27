@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short-text | Antonela Tommasel</title>
+    <link>/tags/short-text/</link>
+      <atom:link href="/tags/short-text/index.xml" rel="self" type="application/rss+xml" />
+    <description>Short-text</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Short-text</title>
+      <link>/tags/short-text/</link>
+    </image>
+    
+    <item>
+      <title>Short-Text Feature Construction and Selection in Social Media Data: A Survey</title>
+      <link>/publication/2016air/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016air/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

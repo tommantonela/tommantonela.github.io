@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonela Tommasel</title>
+    <link>/authors/antonela-tommasel/</link>
+      <atom:link href="/authors/antonela-tommasel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonela Tommasel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Antonela Tommasel</title>
+      <link>/authors/antonela-tommasel/</link>
+    </image>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/london2019/</link>
+      <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/london2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
+      <link>/publication/2019sts/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019sts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Friends or Foe: Recommending friends in the misinformation era</title>
+      <link>/talk/roma2019/</link>
+      <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/roma2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Friend or Foe: Studying user Trustworthiness for Friend Recommendation in the Era of Misinformation</title>
+      <link>/publication/2019aike/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019aike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-text learning in social media: a review</title>
+      <link>/publication/2019ker/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019ker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Social Network Analysis Techniques to Architectural Smell Prediction</title>
+      <link>/publication/2019icsa/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
+      <link>/publication/2019iberamia/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019iberamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features for detecting aggression in social media: An exploratory study</title>
+      <link>/publication/2018asai/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Evaluation of Community Detection Algorithms on Heterogeneous Social Media Data</title>
+      <link>/publication/2018chapter/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/milano2018/</link>
+      <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
+      <guid>/talk/milano2018/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
+      <link>/publication/2018scam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018scam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Social-aware online short-text feature selection technique for social media</title>
+      <link>/publication/2018inffus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018inffus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Network Analysis Techniques Help to Predict Design Dependencies? An Initial Study</title>
+      <link>/publication/2018icsa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view community detection with heterogeneous information from social media data</title>
+      <link>/publication/2018neuro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Neural Networks for Predicting Mobile Device State</title>
+      <link>/publication/2018igi/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018igi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual aggression detection through deep learning</title>
+      <link>/publication/2018coling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus community detection for multi-dimensional networks</title>
+      <link>/publication/2017clei/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017clei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning and adapting user criteria for recommending followees in social networks</title>
+      <link>/publication/2017jasist/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017jasist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMArtOp: A Java library for distributing high-dimensional sparse-matrix arithmetic operations</title>
+      <link>/publication/2017scico/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017scico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-Text Feature Construction and Selection in Social Media Data: A Survey</title>
+      <link>/publication/2016air/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection</title>
+      <link>/publication/2016kais/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016kais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Social Network Structure into Online Feature Selection.</title>
+      <link>/publication/2016ijcai/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016ijcai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality-aware followee recommendation algorithms: An empirical analysis</title>
+      <link>/publication/2015eaai/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2015eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the role of personality traits in followee recommendation</title>
+      <link>/publication/2015oir/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015oir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Personality Traits in Followee Recommendation Algorithms</title>
+      <link>/publication/2015asai/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Metric for Assessing User Influence based on User Behaviour.</title>
+      <link>/publication/2015socinf/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015socinf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Technique for Weighting Multiple Factors in Followee Recommendation Algorithms</title>
+      <link>/publication/2015cpcr/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015cpcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic grounding of social annotations for enhancing resource classification in folksonomies</title>
+      <link>/publication/2015iis/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2015iis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
+      <link>/publication/2014argencon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014argencon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized architectural documentation based on stakeholders’ information needs</title>
+      <link>/publication/2014jserd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014jserd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

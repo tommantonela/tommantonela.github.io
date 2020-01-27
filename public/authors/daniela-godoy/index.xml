@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniela Godoy | Antonela Tommasel</title>
+    <link>/authors/daniela-godoy/</link>
+      <atom:link href="/authors/daniela-godoy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniela Godoy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Daniela Godoy</title>
+      <link>/authors/daniela-godoy/</link>
+    </image>
+    
+    <item>
+      <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
+      <link>/publication/2019sts/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019sts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-text learning in social media: a review</title>
+      <link>/publication/2019ker/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019ker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
+      <link>/publication/2019iberamia/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019iberamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Features for detecting aggression in social media: An exploratory study</title>
+      <link>/publication/2018asai/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Evaluation of Community Detection Algorithms on Heterogeneous Social Media Data</title>
+      <link>/publication/2018chapter/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
+      <link>/publication/2018scam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018scam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Social-aware online short-text feature selection technique for social media</title>
+      <link>/publication/2018inffus/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018inffus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can Network Analysis Techniques Help to Predict Design Dependencies? An Initial Study</title>
+      <link>/publication/2018icsa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018icsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-view community detection with heterogeneous information from social media data</title>
+      <link>/publication/2018neuro/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018neuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textual aggression detection through deep learning</title>
+      <link>/publication/2018coling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consensus community detection for multi-dimensional networks</title>
+      <link>/publication/2017clei/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017clei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning and adapting user criteria for recommending followees in social networks</title>
+      <link>/publication/2017jasist/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017jasist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMArtOp: A Java library for distributing high-dimensional sparse-matrix arithmetic operations</title>
+      <link>/publication/2017scico/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017scico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short-Text Feature Construction and Selection in Social Media Data: A Survey</title>
+      <link>/publication/2016air/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016air/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection</title>
+      <link>/publication/2016kais/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016kais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personality-aware followee recommendation algorithms: An empirical analysis</title>
+      <link>/publication/2015eaai/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2015eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the role of personality traits in followee recommendation</title>
+      <link>/publication/2015oir/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015oir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Role of Personality Traits in Followee Recommendation Algorithms</title>
+      <link>/publication/2015asai/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015asai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Metric for Assessing User Influence based on User Behaviour.</title>
+      <link>/publication/2015socinf/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015socinf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Adaptive Technique for Weighting Multiple Factors in Followee Recommendation Algorithms</title>
+      <link>/publication/2015cpcr/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015cpcr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic grounding of social annotations for enhancing resource classification in folksonomies</title>
+      <link>/publication/2015iis/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2015iis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
+      <link>/publication/2014argencon/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014argencon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personalized architectural documentation based on stakeholders’ information needs</title>
+      <link>/publication/2014jserd/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014jserd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

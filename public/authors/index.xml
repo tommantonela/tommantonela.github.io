@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Antonela Tommasel</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am Antonela Tommasel. I am currently a Researcher at 
+&lt;a href=&#34;https://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt;
+, working in the Recommender Systems group at 
+&lt;a href=&#34;http://www.isistan.unicen.edu.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISISTAN&lt;/a&gt;
+ Research Institute in Tandil, Argentina. I am also a Teacher Assistant at 
+&lt;a href=&#34;http://www.unicen.edu.ar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNICEN&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;My main research interests include social computing applications of machine learning and recommender systems.&lt;/p&gt;
+&lt;p&gt;6+ years of research experience. 8+ years of teaching experience.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antonela Tommasel</title>
+      <link>/authors/antonela-tommasel/</link>
+      <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>/authors/antonela-tommasel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andres Diaz Pace</title>
+      <link>/authors/andres-diaz-pace/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/andres-diaz-pace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniela Godoy</title>
+      <link>/authors/daniela-godoy/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/daniela-godoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Rodriguez</title>
+      <link>/authors/juan-rodriguez/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/juan-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Manuel Rodriguez</title>
+      <link>/authors/juan-manuel-rodriguez/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/juan-manuel-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Zunino</title>
+      <link>/authors/alejandro-zunino/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/alejandro-zunino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristian Mateos</title>
+      <link>/authors/cristian-mateos/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/cristian-mateos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alejandro Corbellini</title>
+      <link>/authors/alejandro-corbellini/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/alejandro-corbellini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Schiaffino</title>
+      <link>/authors/silvia-schiaffino/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/silvia-schiaffino/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Andres Diaz-Pace</title>
+      <link>/authors/jorge-andres-diaz-pace/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/jorge-andres-diaz-pace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matias Nicoletti</title>
+      <link>/authors/matias-nicoletti/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/matias-nicoletti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

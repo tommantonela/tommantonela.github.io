@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Media | Antonela Tommasel</title>
+    <link>/tags/social-media/</link>
+      <atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Social Media</title>
+      <link>/tags/social-media/</link>
+    </image>
+    
+    <item>
+      <title>Hate Speech Bias</title>
+      <link>/project/hate-beholder/</link>
+      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/hate-beholder/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by Facebook as part of the 
+&lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Daniela Godoy - ISISTAN, CONICET-UNICEN, Argentina&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang - Queen Mary University of London, UK&lt;/li&gt;
+&lt;li&gt;Arkaitz Zubiaga - Queen Mary University of London, UK&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An important goal for hate speech detection techniques is to ensure that they are not unduly biased towards or against
+particular norms of offence. Training data is usually obtained by manually annotating a set of texts. Thereby, the reliability
+of human annotations is essential. Meanwhile, the ability to let big data &amp;ldquo;speak for itself&amp;rdquo; has been questioned as its
+representativeness, spatiotemporal extent and uneven demographic information can make it subjective. We hypothesize
+that demographics substantially affect hate speech perception. In this context, the research question guiding this project is:&lt;/p&gt;
+&lt;/div&gt;
+&lt;div style=&#34;text-align: center&#34;&gt;
+&lt;em&gt;How do latent norms and biases caused by demographics derive in biased datasets, which affects the performance of hate speech detection systems?&lt;/em&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Citizens</title>
+      <link>/project/digital-citizenship/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/project/digital-citizenship/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Democracy and formal political processes depend fundamentally on effective communication and
+informed decision-making on public issues. The development of digital technologies, the expansion
+of the Internet and the growth of social networks have generated profound changes in political
+forms at a global level, modifying the bases of citizen participation. These new technologies have
+been established as a new way to channel and facilitate citizen participation in a given territory,
+offering new communication tools with government entities and their authorities. EParticipation
+involves the use of the information and communication technologies, mainly Internet, as the means
+of participation in democratic and consultative social processes. The goal of eParticipation is to
+support active citizenship with the latest technological developments, increasing access and the
+possibility of participating, and promoting a government that is open and close to citizens.
+Considering that democratic systems favour the interests of large groups of citizens, the more voices
+supporting a political proposal, the greater their chances of success. However, achieving effective
+citizen participation is a challenge, given that the simple fact of having access to online services does
+not imply the willingness of citizens to participate. In this context, social media sites could have a
+preponderant role in terms of citizen participation, making individuals not only feel that they have
+access to the information directly and permanently, but also the right to be involved in the public
+discourse and decisions. Consequently, it is necessary to carry out studies for determining the
+current status and perspectives of citizen participation in the context of social media. Thereby, this
+project aims to study and characterize the relationship between digital citizens and government
+entities in social media, in the context of eParticipation, to enable the definition of practices and
+strategies that lead to the efficient use of social media for communication between public
+institutions and citizens.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Faking It!</title>
+      <link>/project/faking-it/</link>
+      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/project/faking-it/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by Facebook as part of the 
+&lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/the-online-safety-benchmark-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Online Safety Benchmark request for proposals&amp;rdquo;&lt;/a&gt;
+&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Social media has become the primary source of news for their users. Besides fostering social
+connections between persons, social networks also represent the ideal environment for undesirable
+phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake
+news, which all affect the individuals as well as the society as a whole. Thereby, in the last few years,
+the research on misinformation has received increasing attention. Nonetheless, even though some
+computational solutions have been presented, the lack of a common ground and public datasets has
+become one of the major barriers. Not only datasets are rare, but also, they are mostly limited to
+only the actual shared text, neglecting the importance of other features, such as social content and
+temporal information. In this scenario, this project proposes the creation of a publicly available
+dataset, comprising multi-sourced data and including diverse features related not only to the textual
+and multimedia content, but also to the social context of news and their temporal information. This
+dataset would not only allow tackling the task of fake news detection, but also studying their
+evolution, which, in turn, can foster the development of mitigation and debunking techniques.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
+      <link>/publication/2019iberamia/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019iberamia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>/project/royal-society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/royal-society/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

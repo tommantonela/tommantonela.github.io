@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Antonela Tommasel</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/london2019/</link>
+      <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/london2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Friends or Foe: Recommending friends in the misinformation era</title>
+      <link>/talk/roma2019/</link>
+      <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/roma2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/milano2018/</link>
+      <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
+      <guid>/talk/milano2018/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

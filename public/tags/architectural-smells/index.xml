@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architectural Smells | Antonela Tommasel</title>
+    <link>/tags/architectural-smells/</link>
+      <atom:link href="/tags/architectural-smells/index.xml" rel="self" type="application/rss+xml" />
+    <description>Architectural Smells</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Architectural Smells</title>
+      <link>/tags/architectural-smells/</link>
+    </image>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/london2019/</link>
+      <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
+      <guid>/talk/london2019/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ASPredictor</title>
+      <link>/software_project/as-predictor/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/software_project/as-predictor/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Extract-Detect.&lt;/em&gt; Parses Java source code from predefined versions and extracts packages dependency graphs, relying on a Java static analyzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Dep-Pred.&lt;/em&gt; Takes two dependency graphs as inputs, and produces an ordered list of predicted dependencies, relying on a trained binary classifier.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Smell-Pred.&lt;/em&gt; Receives dependency graphs and the predicted dependencies, and identifies potentially ”new” AS in the expanded graph to appear in the next system version, which are ranked according to their relevance. Currently, three types of smells are supported: cyclic dependencies, hub-like dependencies and unstable dependencies.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Eval.&lt;/em&gt; Compares the predicted dependencies and/or smells with the actual dependencies/smells, and computes typical Machine Learning metrics such as: precision, recall, F-measure and nDCG.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ASPredictor is licenced under the Apache License V2.0. Copyright 2019 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sen4Smells</title>
+      <link>/software_project/sens4smells/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/software_project/sens4smells/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Sen4Smells is tool for prioritizing architecture-sensitive smells based on a technical debt index (e.g., ADI, SDI, etc.) Sen4Smells is licenced under the Apache License V2.0.&lt;/p&gt;
+&lt;p&gt;The main functionality of the Sen4Smells is providing assistence to engineers for interpretating Technical Debt metrics in terms problematic Architectural Smells and system packages.&lt;/p&gt;
+&lt;p&gt;Sen4Smells is able to perform a sensitivity analysis for a collection of system values provided by a predetermined debt index. Our approach relies on two building blocks:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The adaptation of an existing SA method to AS-based debt indices.&lt;/li&gt;
+&lt;li&gt;A decomposition strategy for dealing with the index at different granularity levels.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By leveraging on Architectural Smells, the goal of the Sensitivity Analysis is to understand how variations in the Technical Debt can be attributed to variations in features of system elements. To do so, the sensitivity analysis performs a screening of the multiple variables affecting the index over time, and returns the most sensitive ones (i.e., key elements) to the engineer (tool user). The inputs for this analysis are: a set of previous system versions, the formula for computing a particular Technical Debt, and the granularity level for the variables (e.g., smell types, individual smells, or packages).&lt;/p&gt;
+&lt;p&gt;The tool is designed as pipeline, in which existing modules for detecting smells and computing metrics from the source code can be configured. These smells and metrics depend on the Technical Debt under consideration, which is also a parameter for the pipeline.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
+      <link>/talk/milano2018/</link>
+      <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
+      <guid>/talk/milano2018/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
+system degradation. Architectural smells are typical symptoms of such problems, and several of
+these smells are related to undesired dependencies among modules. The early detection of these
+smells is important for developers, so they can plan ahead for maintenance or refactoring efforts,
+thus preventing system degradation. Social Network Analysis (SNA) refers to a strategy for
+investigating social structures using network and graph theories. The link prediction problem adapts
+SNA techniques for studying to what extent the evolution of a network can be modelled by using
+features intrinsic to the network. Since the module structure can be regarded as a network, i.e., a
+dependency graph, we can leverage on network features to analyse the dynamics of such structure.
+In this talk, we will explore how link prediction and machine learning techniques could help
+anticipate architectural smells in future system versions. We will start with the basics of predicting
+future dependencies, up to the application of time forecasting and machine learning models for
+predicting the appearance of new architectural smells. Particularly, we will focus on two well-known
+dependency-related smells, cyclic dependencies and hub-like dependency. Finally, we will discuss
+some open issues and potential extensions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
+      <link>/publication/2018scam/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018scam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
