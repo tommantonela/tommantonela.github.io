@@ -124,7 +124,7 @@ that demographics substantially affect hate speech perception. In this context, 
       <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -200,7 +200,7 @@ institutions and citizens.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;By leveraging on Architectural Smells, the goal of the Sensitivity Analysis is to understand how variations in the Technical Debt can be attributed to variations in features of system elements. To do so, the sensitivity analysis performs a screening of the multiple variables affecting the index over time, and returns the most sensitive ones (i.e., key elements) to the engineer (tool user). The inputs for this analysis are: a set of previous system versions, the formula for computing a particular Technical Debt, and the granularity level for the variables (e.g., smell types, individual smells, or packages).&lt;/p&gt;
 &lt;p&gt;The tool is designed as pipeline, in which existing modules for detecting smells and computing metrics from the source code can be configured. These smells and metrics depend on the Technical Debt under consideration, which is also a parameter for the pipeline.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     

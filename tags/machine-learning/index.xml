@@ -45,7 +45,7 @@ some open issues and potential extensions.&lt;/p&gt;
       <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../../img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
