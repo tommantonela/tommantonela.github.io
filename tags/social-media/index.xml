@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Media | Antonela Tommasel</title>
-    <link>/tags/social-media/</link>
-      <atom:link href="/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/social-media/</link>
+      <atom:link href="https://tommantonela.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Social Media</title>
-      <link>/tags/social-media/</link>
+      <link>https://tommantonela.github.io/tags/social-media/</link>
     </image>
     
     <item>
       <title>Hate Speech Bias</title>
-      <link>/project/hate-beholder/</link>
+      <link>https://tommantonela.github.io/project/hate-beholder/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/hate-beholder/</guid>
+      <guid>https://tommantonela.github.io/project/hate-beholder/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by Facebook as part of the 
 &lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;
@@ -41,9 +41,9 @@ that demographics substantially affect hate speech perception. In this context, 
     
     <item>
       <title>Digital Citizens</title>
-      <link>/project/digital-citizenship/</link>
+      <link>https://tommantonela.github.io/project/digital-citizenship/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/digital-citizenship/</guid>
+      <guid>https://tommantonela.github.io/project/digital-citizenship/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
 &lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
@@ -74,9 +74,9 @@ institutions and citizens.&lt;/p&gt;
     
     <item>
       <title>Faking It!</title>
-      <link>/project/faking-it/</link>
+      <link>https://tommantonela.github.io/project/faking-it/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/faking-it/</guid>
+      <guid>https://tommantonela.github.io/project/faking-it/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by Facebook as part of the 
 &lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/the-online-safety-benchmark-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Online Safety Benchmark request for proposals&amp;rdquo;&lt;/a&gt;
@@ -100,17 +100,17 @@ evolution, which, in turn, can foster the development of mitigation and debunkin
     
     <item>
       <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
-      <link>/publication/2019iberamia/</link>
+      <link>https://tommantonela.github.io/publication/2019iberamia/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019iberamia/</guid>
+      <guid>https://tommantonela.github.io/publication/2019iberamia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OHARS</title>
-      <link>/project/royal-society/</link>
+      <link>https://tommantonela.github.io/project/royal-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/royal-society/</guid>
+      <guid>https://tommantonela.github.io/project/royal-society/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
 &lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;

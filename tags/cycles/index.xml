@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cycles | Antonela Tommasel</title>
-    <link>/tags/cycles/</link>
-      <atom:link href="/tags/cycles/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/cycles/</link>
+      <atom:link href="https://tommantonela.github.io/tags/cycles/index.xml" rel="self" type="application/rss+xml" />
     <description>Cycles</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Cycles</title>
-      <link>/tags/cycles/</link>
+      <link>https://tommantonela.github.io/tags/cycles/</link>
     </image>
     
     <item>
       <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
-      <link>/publication/2018scam/</link>
+      <link>https://tommantonela.github.io/publication/2018scam/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018scam/</guid>
+      <guid>https://tommantonela.github.io/publication/2018scam/</guid>
       <description></description>
     </item>
     

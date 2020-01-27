@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bias | Antonela Tommasel</title>
-    <link>/tags/bias/</link>
-      <atom:link href="/tags/bias/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/bias/</link>
+      <atom:link href="https://tommantonela.github.io/tags/bias/index.xml" rel="self" type="application/rss+xml" />
     <description>Bias</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bias</title>
-      <link>/tags/bias/</link>
+      <link>https://tommantonela.github.io/tags/bias/</link>
     </image>
     
     <item>
       <title>Hate Speech Bias</title>
-      <link>/project/hate-beholder/</link>
+      <link>https://tommantonela.github.io/project/hate-beholder/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/hate-beholder/</guid>
+      <guid>https://tommantonela.github.io/project/hate-beholder/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by Facebook as part of the 
 &lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;

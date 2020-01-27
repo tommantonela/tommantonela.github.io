@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matrix Computation | Antonela Tommasel</title>
-    <link>/tags/matrix-computation/</link>
-      <atom:link href="/tags/matrix-computation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/matrix-computation/</link>
+      <atom:link href="https://tommantonela.github.io/tags/matrix-computation/index.xml" rel="self" type="application/rss+xml" />
     <description>Matrix Computation</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Matrix Computation</title>
-      <link>/tags/matrix-computation/</link>
+      <link>https://tommantonela.github.io/tags/matrix-computation/</link>
     </image>
     
     <item>
       <title>SMArtOp</title>
-      <link>/software_project/smartop/</link>
+      <link>https://tommantonela.github.io/software_project/smartop/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/software_project/smartop/</guid>
+      <guid>https://tommantonela.github.io/software_project/smartop/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;SMArtOp is a Java library for dividing the processing of large-scale sparse-matrix arithmetic operations on distributed environments.The software is designed for dividing and balancing the processing of large-scale sparse-matrix arithmetic operations into simpler and independent tasks to be executed in a distributed environment.&lt;/p&gt;
 &lt;p&gt;SMArtOp is licenced under the Apache License V2.0. Copyright 2016 - ISISTAN - UNICEN - CONICET&lt;/p&gt;

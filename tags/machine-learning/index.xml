@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Antonela Tommasel</title>
-    <link>/tags/machine-learning/</link>
-      <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/machine-learning/</link>
+      <atom:link href="https://tommantonela.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Machine Learning</title>
-      <link>/tags/machine-learning/</link>
+      <link>https://tommantonela.github.io/tags/machine-learning/</link>
     </image>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/london2019/</link>
+      <link>https://tommantonela.github.io/talk/london2019/</link>
       <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/london2019/</guid>
+      <guid>https://tommantonela.github.io/talk/london2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -40,12 +40,12 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>ASPredictor</title>
-      <link>/software_project/as-predictor/</link>
+      <link>https://tommantonela.github.io/software_project/as-predictor/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/as-predictor/</guid>
+      <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -67,17 +67,17 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
-      <link>/publication/2019iberamia/</link>
+      <link>https://tommantonela.github.io/publication/2019iberamia/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019iberamia/</guid>
+      <guid>https://tommantonela.github.io/publication/2019iberamia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/milano2018/</link>
+      <link>https://tommantonela.github.io/talk/milano2018/</link>
       <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
-      <guid>/talk/milano2018/</guid>
+      <guid>https://tommantonela.github.io/talk/milano2018/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -101,9 +101,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
-      <link>/publication/2018scam/</link>
+      <link>https://tommantonela.github.io/publication/2018scam/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018scam/</guid>
+      <guid>https://tommantonela.github.io/publication/2018scam/</guid>
       <description></description>
     </item>
     

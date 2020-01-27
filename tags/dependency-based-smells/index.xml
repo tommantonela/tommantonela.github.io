@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dependency-based Smells | Antonela Tommasel</title>
-    <link>/tags/dependency-based-smells/</link>
-      <atom:link href="/tags/dependency-based-smells/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/dependency-based-smells/</link>
+      <atom:link href="https://tommantonela.github.io/tags/dependency-based-smells/index.xml" rel="self" type="application/rss+xml" />
     <description>Dependency-based Smells</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Dependency-based Smells</title>
-      <link>/tags/dependency-based-smells/</link>
+      <link>https://tommantonela.github.io/tags/dependency-based-smells/</link>
     </image>
     
     <item>
       <title>ASPredictor</title>
-      <link>/software_project/as-predictor/</link>
+      <link>https://tommantonela.github.io/software_project/as-predictor/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/as-predictor/</guid>
+      <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;

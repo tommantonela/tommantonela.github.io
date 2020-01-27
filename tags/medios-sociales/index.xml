@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medios Sociales | Antonela Tommasel</title>
-    <link>/tags/medios-sociales/</link>
-      <atom:link href="/tags/medios-sociales/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/medios-sociales/</link>
+      <atom:link href="https://tommantonela.github.io/tags/medios-sociales/index.xml" rel="self" type="application/rss+xml" />
     <description>Medios Sociales</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Medios Sociales</title>
-      <link>/tags/medios-sociales/</link>
+      <link>https://tommantonela.github.io/tags/medios-sociales/</link>
     </image>
     
     <item>
       <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
-      <link>/publication/2019sts/</link>
+      <link>https://tommantonela.github.io/publication/2019sts/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019sts/</guid>
+      <guid>https://tommantonela.github.io/publication/2019sts/</guid>
       <description></description>
     </item>
     

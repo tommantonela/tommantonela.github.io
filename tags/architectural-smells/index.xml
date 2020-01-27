@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architectural Smells | Antonela Tommasel</title>
-    <link>/tags/architectural-smells/</link>
-      <atom:link href="/tags/architectural-smells/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/architectural-smells/</link>
+      <atom:link href="https://tommantonela.github.io/tags/architectural-smells/index.xml" rel="self" type="application/rss+xml" />
     <description>Architectural Smells</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Architectural Smells</title>
-      <link>/tags/architectural-smells/</link>
+      <link>https://tommantonela.github.io/tags/architectural-smells/</link>
     </image>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/london2019/</link>
+      <link>https://tommantonela.github.io/talk/london2019/</link>
       <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/london2019/</guid>
+      <guid>https://tommantonela.github.io/talk/london2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -40,12 +40,12 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>ASPredictor</title>
-      <link>/software_project/as-predictor/</link>
+      <link>https://tommantonela.github.io/software_project/as-predictor/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/as-predictor/</guid>
+      <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -67,9 +67,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>Sen4Smells</title>
-      <link>/software_project/sens4smells/</link>
+      <link>https://tommantonela.github.io/software_project/sens4smells/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/sens4smells/</guid>
+      <guid>https://tommantonela.github.io/software_project/sens4smells/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Sen4Smells is tool for prioritizing architecture-sensitive smells based on a technical debt index (e.g., ADI, SDI, etc.) Sen4Smells is licenced under the Apache License V2.0.&lt;/p&gt;
 &lt;p&gt;The main functionality of the Sen4Smells is providing assistence to engineers for interpretating Technical Debt metrics in terms problematic Architectural Smells and system packages.&lt;/p&gt;
@@ -80,15 +80,15 @@ some open issues and potential extensions.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;By leveraging on Architectural Smells, the goal of the Sensitivity Analysis is to understand how variations in the Technical Debt can be attributed to variations in features of system elements. To do so, the sensitivity analysis performs a screening of the multiple variables affecting the index over time, and returns the most sensitive ones (i.e., key elements) to the engineer (tool user). The inputs for this analysis are: a set of previous system versions, the formula for computing a particular Technical Debt, and the granularity level for the variables (e.g., smell types, individual smells, or packages).&lt;/p&gt;
 &lt;p&gt;The tool is designed as pipeline, in which existing modules for detecting smells and computing metrics from the source code can be configured. These smells and metrics depend on the Technical Debt under consideration, which is also a parameter for the pipeline.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/milano2018/</link>
+      <link>https://tommantonela.github.io/talk/milano2018/</link>
       <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
-      <guid>/talk/milano2018/</guid>
+      <guid>https://tommantonela.github.io/talk/milano2018/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -112,9 +112,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
-      <link>/publication/2018scam/</link>
+      <link>https://tommantonela.github.io/publication/2018scam/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018scam/</guid>
+      <guid>https://tommantonela.github.io/publication/2018scam/</guid>
       <description></description>
     </item>
     

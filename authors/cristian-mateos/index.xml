@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cristian Mateos | Antonela Tommasel</title>
-    <link>/authors/cristian-mateos/</link>
-      <atom:link href="/authors/cristian-mateos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/authors/cristian-mateos/</link>
+      <atom:link href="https://tommantonela.github.io/authors/cristian-mateos/index.xml" rel="self" type="application/rss+xml" />
     <description>Cristian Mateos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Cristian Mateos</title>
-      <link>/authors/cristian-mateos/</link>
+      <link>https://tommantonela.github.io/authors/cristian-mateos/</link>
     </image>
     
     <item>
       <title>Recurrent Neural Networks for Predicting Mobile Device State</title>
-      <link>/publication/2018igi/</link>
+      <link>https://tommantonela.github.io/publication/2018igi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018igi/</guid>
+      <guid>https://tommantonela.github.io/publication/2018igi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection</title>
-      <link>/publication/2016kais/</link>
+      <link>https://tommantonela.github.io/publication/2016kais/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016kais/</guid>
+      <guid>https://tommantonela.github.io/publication/2016kais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
-      <link>/publication/2014argencon/</link>
+      <link>https://tommantonela.github.io/publication/2014argencon/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014argencon/</guid>
+      <guid>https://tommantonela.github.io/publication/2014argencon/</guid>
       <description></description>
     </item>
     

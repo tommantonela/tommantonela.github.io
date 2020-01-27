@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Software architecture | Antonela Tommasel</title>
-    <link>/tags/software-architecture/</link>
-      <atom:link href="/tags/software-architecture/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/software-architecture/</link>
+      <atom:link href="https://tommantonela.github.io/tags/software-architecture/index.xml" rel="self" type="application/rss+xml" />
     <description>Software architecture</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Software architecture</title>
-      <link>/tags/software-architecture/</link>
+      <link>https://tommantonela.github.io/tags/software-architecture/</link>
     </image>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/london2019/</link>
+      <link>https://tommantonela.github.io/talk/london2019/</link>
       <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/london2019/</guid>
+      <guid>https://tommantonela.github.io/talk/london2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -40,9 +40,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/milano2018/</link>
+      <link>https://tommantonela.github.io/talk/milano2018/</link>
       <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
-      <guid>/talk/milano2018/</guid>
+      <guid>https://tommantonela.github.io/talk/milano2018/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -66,9 +66,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>Personalized architectural documentation based on stakeholders’ information needs</title>
-      <link>/publication/2014jserd/</link>
+      <link>https://tommantonela.github.io/publication/2014jserd/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014jserd/</guid>
+      <guid>https://tommantonela.github.io/publication/2014jserd/</guid>
       <description></description>
     </item>
     

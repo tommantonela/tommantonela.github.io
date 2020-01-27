@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antonela Tommasel</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/</link>
+      <atom:link href="https://tommantonela.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonela Tommasel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Antonela Tommasel</title>
-      <link>/</link>
+      <link>https://tommantonela.github.io/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://tommantonela.github.io/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://tommantonela.github.io/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://tommantonela.github.io/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://tommantonela.github.io/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Welcome to my website!</title>
-      <link>/post/welcome/</link>
+      <link>https://tommantonela.github.io/post/welcome/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/post/welcome/</guid>
+      <guid>https://tommantonela.github.io/post/welcome/</guid>
       <description>&lt;p&gt;Welcome to my new site! Here you can find news regarding my publications, talks, proyects and publications.
 Enjoy!&lt;/p&gt;
 </description>
@@ -66,9 +66,9 @@ Enjoy!&lt;/p&gt;
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/london2019/</link>
+      <link>https://tommantonela.github.io/talk/london2019/</link>
       <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/london2019/</guid>
+      <guid>https://tommantonela.github.io/talk/london2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -92,9 +92,9 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>Hate Speech Bias</title>
-      <link>/project/hate-beholder/</link>
+      <link>https://tommantonela.github.io/project/hate-beholder/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/hate-beholder/</guid>
+      <guid>https://tommantonela.github.io/project/hate-beholder/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by Facebook as part of the 
 &lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/content-policy-research-on-social-media-platforms-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Content Policy Research on Social Media Platforms request for proposals&amp;rdquo;&lt;/a&gt;
@@ -119,12 +119,12 @@ that demographics substantially affect hate speech perception. In this context, 
     
     <item>
       <title>ASPredictor</title>
-      <link>/software_project/as-predictor/</link>
+      <link>https://tommantonela.github.io/software_project/as-predictor/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/as-predictor/</guid>
+      <guid>https://tommantonela.github.io/software_project/as-predictor/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This prototype tool supports the prediction of dependency-based Architectural Smells and also the evaluation of those predictions using a sequence of system versions. ASPredictor is designed as a pipeline of processing components. Each component receives a number of inputs and generates outputs for other components downstream.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/aspredictor_pipeline.jpg&#34; alt=&#34;AsPredictor Pipeline&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The main functionality consists of three steps, namely: pre-processing, classification construction, and smell prediction.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -146,9 +146,9 @@ that demographics substantially affect hate speech perception. In this context, 
     
     <item>
       <title>Digital Citizens</title>
-      <link>/project/digital-citizenship/</link>
+      <link>https://tommantonela.github.io/project/digital-citizenship/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/project/digital-citizenship/</guid>
+      <guid>https://tommantonela.github.io/project/digital-citizenship/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
 &lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
@@ -179,17 +179,17 @@ institutions and citizens.&lt;/p&gt;
     
     <item>
       <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
-      <link>/publication/2019sts/</link>
+      <link>https://tommantonela.github.io/publication/2019sts/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019sts/</guid>
+      <guid>https://tommantonela.github.io/publication/2019sts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sen4Smells</title>
-      <link>/software_project/sens4smells/</link>
+      <link>https://tommantonela.github.io/software_project/sens4smells/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/software_project/sens4smells/</guid>
+      <guid>https://tommantonela.github.io/software_project/sens4smells/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Sen4Smells is tool for prioritizing architecture-sensitive smells based on a technical debt index (e.g., ADI, SDI, etc.) Sen4Smells is licenced under the Apache License V2.0.&lt;/p&gt;
 &lt;p&gt;The main functionality of the Sen4Smells is providing assistence to engineers for interpretating Technical Debt metrics in terms problematic Architectural Smells and system packages.&lt;/p&gt;
@@ -200,15 +200,15 @@ institutions and citizens.&lt;/p&gt;
 &lt;/ol&gt;
 &lt;p&gt;By leveraging on Architectural Smells, the goal of the Sensitivity Analysis is to understand how variations in the Technical Debt can be attributed to variations in features of system elements. To do so, the sensitivity analysis performs a screening of the multiple variables affecting the index over time, and returns the most sensitive ones (i.e., key elements) to the engineer (tool user). The inputs for this analysis are: a set of previous system versions, the formula for computing a particular Technical Debt, and the granularity level for the variables (e.g., smell types, individual smells, or packages).&lt;/p&gt;
 &lt;p&gt;The tool is designed as pipeline, in which existing modules for detecting smells and computing metrics from the source code can be configured. These smells and metrics depend on the Technical Debt under consideration, which is also a parameter for the pipeline.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://tommantonela.github.io/img/sen4smells_pipeline.jpg&#34; alt=&#34;Sen4Smells Pipeline&#34;&gt;&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Faking It!</title>
-      <link>/project/faking-it/</link>
+      <link>https://tommantonela.github.io/project/faking-it/</link>
       <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/project/faking-it/</guid>
+      <guid>https://tommantonela.github.io/project/faking-it/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded by Facebook as part of the 
 &lt;a href=&#34;https://research.fb.com/programs/research-awards/proposals/the-online-safety-benchmark-request-for-proposals/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Online Safety Benchmark request for proposals&amp;rdquo;&lt;/a&gt;
@@ -232,9 +232,9 @@ evolution, which, in turn, can foster the development of mitigation and debunkin
     
     <item>
       <title>Friends or Foe: Recommending friends in the misinformation era</title>
-      <link>/talk/roma2019/</link>
+      <link>https://tommantonela.github.io/talk/roma2019/</link>
       <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/roma2019/</guid>
+      <guid>https://tommantonela.github.io/talk/roma2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
@@ -244,33 +244,33 @@ evolution, which, in turn, can foster the development of mitigation and debunkin
     
     <item>
       <title>Friend or Foe: Studying user Trustworthiness for Friend Recommendation in the Era of Misinformation</title>
-      <link>/publication/2019aike/</link>
+      <link>https://tommantonela.github.io/publication/2019aike/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019aike/</guid>
+      <guid>https://tommantonela.github.io/publication/2019aike/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-text learning in social media: a review</title>
-      <link>/publication/2019ker/</link>
+      <link>https://tommantonela.github.io/publication/2019ker/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019ker/</guid>
+      <guid>https://tommantonela.github.io/publication/2019ker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Applying Social Network Analysis Techniques to Architectural Smell Prediction</title>
-      <link>/publication/2019icsa/</link>
+      <link>https://tommantonela.github.io/publication/2019icsa/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019icsa/</guid>
+      <guid>https://tommantonela.github.io/publication/2019icsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://tommantonela.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://tommantonela.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt;
@@ -406,33 +406,33 @@ Three
     
     <item>
       <title>An experimental study on feature engineering and learning approaches for aggression detection in social media</title>
-      <link>/publication/2019iberamia/</link>
+      <link>https://tommantonela.github.io/publication/2019iberamia/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019iberamia/</guid>
+      <guid>https://tommantonela.github.io/publication/2019iberamia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Features for detecting aggression in social media: An exploratory study</title>
-      <link>/publication/2018asai/</link>
+      <link>https://tommantonela.github.io/publication/2018asai/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018asai/</guid>
+      <guid>https://tommantonela.github.io/publication/2018asai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Evaluation of Community Detection Algorithms on Heterogeneous Social Media Data</title>
-      <link>/publication/2018chapter/</link>
+      <link>https://tommantonela.github.io/publication/2018chapter/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018chapter/</guid>
+      <guid>https://tommantonela.github.io/publication/2018chapter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>
-      <link>/talk/milano2018/</link>
+      <link>https://tommantonela.github.io/talk/milano2018/</link>
       <pubDate>Thu, 06 Sep 2018 14:00:00 +0000</pubDate>
-      <guid>/talk/milano2018/</guid>
+      <guid>https://tommantonela.github.io/talk/milano2018/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Software systems naturally evolve, and this evolution often brings design problems that cause
@@ -456,81 +456,81 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>
-      <link>/publication/2018scam/</link>
+      <link>https://tommantonela.github.io/publication/2018scam/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018scam/</guid>
+      <guid>https://tommantonela.github.io/publication/2018scam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Social-aware online short-text feature selection technique for social media</title>
-      <link>/publication/2018inffus/</link>
+      <link>https://tommantonela.github.io/publication/2018inffus/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018inffus/</guid>
+      <guid>https://tommantonela.github.io/publication/2018inffus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Can Network Analysis Techniques Help to Predict Design Dependencies? An Initial Study</title>
-      <link>/publication/2018icsa/</link>
+      <link>https://tommantonela.github.io/publication/2018icsa/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018icsa/</guid>
+      <guid>https://tommantonela.github.io/publication/2018icsa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-view community detection with heterogeneous information from social media data</title>
-      <link>/publication/2018neuro/</link>
+      <link>https://tommantonela.github.io/publication/2018neuro/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018neuro/</guid>
+      <guid>https://tommantonela.github.io/publication/2018neuro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recurrent Neural Networks for Predicting Mobile Device State</title>
-      <link>/publication/2018igi/</link>
+      <link>https://tommantonela.github.io/publication/2018igi/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018igi/</guid>
+      <guid>https://tommantonela.github.io/publication/2018igi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Textual aggression detection through deep learning</title>
-      <link>/publication/2018coling/</link>
+      <link>https://tommantonela.github.io/publication/2018coling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018coling/</guid>
+      <guid>https://tommantonela.github.io/publication/2018coling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consensus community detection for multi-dimensional networks</title>
-      <link>/publication/2017clei/</link>
+      <link>https://tommantonela.github.io/publication/2017clei/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017clei/</guid>
+      <guid>https://tommantonela.github.io/publication/2017clei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning and adapting user criteria for recommending followees in social networks</title>
-      <link>/publication/2017jasist/</link>
+      <link>https://tommantonela.github.io/publication/2017jasist/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017jasist/</guid>
+      <guid>https://tommantonela.github.io/publication/2017jasist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMArtOp: A Java library for distributing high-dimensional sparse-matrix arithmetic operations</title>
-      <link>/publication/2017scico/</link>
+      <link>https://tommantonela.github.io/publication/2017scico/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017scico/</guid>
+      <guid>https://tommantonela.github.io/publication/2017scico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SMArtOp</title>
-      <link>/software_project/smartop/</link>
+      <link>https://tommantonela.github.io/software_project/smartop/</link>
       <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/software_project/smartop/</guid>
+      <guid>https://tommantonela.github.io/software_project/smartop/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;SMArtOp is a Java library for dividing the processing of large-scale sparse-matrix arithmetic operations on distributed environments.The software is designed for dividing and balancing the processing of large-scale sparse-matrix arithmetic operations into simpler and independent tasks to be executed in a distributed environment.&lt;/p&gt;
 &lt;p&gt;SMArtOp is licenced under the Apache License V2.0. Copyright 2016 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
@@ -539,97 +539,97 @@ some open issues and potential extensions.&lt;/p&gt;
     
     <item>
       <title>Short-Text Feature Construction and Selection in Social Media Data: A Survey</title>
-      <link>/publication/2016air/</link>
+      <link>https://tommantonela.github.io/publication/2016air/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016air/</guid>
+      <guid>https://tommantonela.github.io/publication/2016air/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A distributed approach for accelerating sparse matrix arithmetic operations for high-dimensional feature selection</title>
-      <link>/publication/2016kais/</link>
+      <link>https://tommantonela.github.io/publication/2016kais/</link>
       <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016kais/</guid>
+      <guid>https://tommantonela.github.io/publication/2016kais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating Social Network Structure into Online Feature Selection.</title>
-      <link>/publication/2016ijcai/</link>
+      <link>https://tommantonela.github.io/publication/2016ijcai/</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016ijcai/</guid>
+      <guid>https://tommantonela.github.io/publication/2016ijcai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personality-aware followee recommendation algorithms: An empirical analysis</title>
-      <link>/publication/2015eaai/</link>
+      <link>https://tommantonela.github.io/publication/2015eaai/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2015eaai/</guid>
+      <guid>https://tommantonela.github.io/publication/2015eaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the role of personality traits in followee recommendation</title>
-      <link>/publication/2015oir/</link>
+      <link>https://tommantonela.github.io/publication/2015oir/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015oir/</guid>
+      <guid>https://tommantonela.github.io/publication/2015oir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Role of Personality Traits in Followee Recommendation Algorithms</title>
-      <link>/publication/2015asai/</link>
+      <link>https://tommantonela.github.io/publication/2015asai/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015asai/</guid>
+      <guid>https://tommantonela.github.io/publication/2015asai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Novel Metric for Assessing User Influence based on User Behaviour.</title>
-      <link>/publication/2015socinf/</link>
+      <link>https://tommantonela.github.io/publication/2015socinf/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015socinf/</guid>
+      <guid>https://tommantonela.github.io/publication/2015socinf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Adaptive Technique for Weighting Multiple Factors in Followee Recommendation Algorithms</title>
-      <link>/publication/2015cpcr/</link>
+      <link>https://tommantonela.github.io/publication/2015cpcr/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015cpcr/</guid>
+      <guid>https://tommantonela.github.io/publication/2015cpcr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Semantic grounding of social annotations for enhancing resource classification in folksonomies</title>
-      <link>/publication/2015iis/</link>
+      <link>https://tommantonela.github.io/publication/2015iis/</link>
       <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2015iis/</guid>
+      <guid>https://tommantonela.github.io/publication/2015iis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sparse-matrix arithmetic operations in computer clusters: A text feature selection application</title>
-      <link>/publication/2014argencon/</link>
+      <link>https://tommantonela.github.io/publication/2014argencon/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014argencon/</guid>
+      <guid>https://tommantonela.github.io/publication/2014argencon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personalized architectural documentation based on stakeholders’ information needs</title>
-      <link>/publication/2014jserd/</link>
+      <link>https://tommantonela.github.io/publication/2014jserd/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014jserd/</guid>
+      <guid>https://tommantonela.github.io/publication/2014jserd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OHARS</title>
-      <link>/project/royal-society/</link>
+      <link>https://tommantonela.github.io/project/royal-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/royal-society/</guid>
+      <guid>https://tommantonela.github.io/project/royal-society/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
 &lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;

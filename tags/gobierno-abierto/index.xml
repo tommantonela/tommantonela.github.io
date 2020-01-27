@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gobierno Abierto | Antonela Tommasel</title>
-    <link>/tags/gobierno-abierto/</link>
-      <atom:link href="/tags/gobierno-abierto/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/gobierno-abierto/</link>
+      <atom:link href="https://tommantonela.github.io/tags/gobierno-abierto/index.xml" rel="self" type="application/rss+xml" />
     <description>Gobierno Abierto</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Gobierno Abierto</title>
-      <link>/tags/gobierno-abierto/</link>
+      <link>https://tommantonela.github.io/tags/gobierno-abierto/</link>
     </image>
     
     <item>
       <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
-      <link>/publication/2019sts/</link>
+      <link>https://tommantonela.github.io/publication/2019sts/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019sts/</guid>
+      <guid>https://tommantonela.github.io/publication/2019sts/</guid>
       <description></description>
     </item>
     

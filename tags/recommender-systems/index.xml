@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommender Systems | Antonela Tommasel</title>
-    <link>/tags/recommender-systems/</link>
-      <atom:link href="/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/tags/recommender-systems/</link>
+      <atom:link href="https://tommantonela.github.io/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Recommender Systems</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recommender Systems</title>
-      <link>/tags/recommender-systems/</link>
+      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
     </image>
     
     <item>
       <title>Friends or Foe: Recommending friends in the misinformation era</title>
-      <link>/talk/roma2019/</link>
+      <link>https://tommantonela.github.io/talk/roma2019/</link>
       <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
-      <guid>/talk/roma2019/</guid>
+      <guid>https://tommantonela.github.io/talk/roma2019/</guid>
       <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
@@ -26,17 +26,17 @@
     
     <item>
       <title>Personalized architectural documentation based on stakeholders’ information needs</title>
-      <link>/publication/2014jserd/</link>
+      <link>https://tommantonela.github.io/publication/2014jserd/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014jserd/</guid>
+      <guid>https://tommantonela.github.io/publication/2014jserd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OHARS</title>
-      <link>/project/royal-society/</link>
+      <link>https://tommantonela.github.io/project/royal-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/royal-society/</guid>
+      <guid>https://tommantonela.github.io/project/royal-society/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
 &lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;

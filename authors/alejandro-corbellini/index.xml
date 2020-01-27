@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alejandro Corbellini | Antonela Tommasel</title>
-    <link>/authors/alejandro-corbellini/</link>
-      <atom:link href="/authors/alejandro-corbellini/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://tommantonela.github.io/authors/alejandro-corbellini/</link>
+      <atom:link href="https://tommantonela.github.io/authors/alejandro-corbellini/index.xml" rel="self" type="application/rss+xml" />
     <description>Alejandro Corbellini</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alejandro Corbellini</title>
-      <link>/authors/alejandro-corbellini/</link>
+      <link>https://tommantonela.github.io/authors/alejandro-corbellini/</link>
     </image>
     
     <item>
       <title>Personality-aware followee recommendation algorithms: An empirical analysis</title>
-      <link>/publication/2015eaai/</link>
+      <link>https://tommantonela.github.io/publication/2015eaai/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2015eaai/</guid>
+      <guid>https://tommantonela.github.io/publication/2015eaai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring the role of personality traits in followee recommendation</title>
-      <link>/publication/2015oir/</link>
+      <link>https://tommantonela.github.io/publication/2015oir/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015oir/</guid>
+      <guid>https://tommantonela.github.io/publication/2015oir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the Role of Personality Traits in Followee Recommendation Algorithms</title>
-      <link>/publication/2015asai/</link>
+      <link>https://tommantonela.github.io/publication/2015asai/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015asai/</guid>
+      <guid>https://tommantonela.github.io/publication/2015asai/</guid>
       <description></description>
     </item>
     
