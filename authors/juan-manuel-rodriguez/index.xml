@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
       <atom:link href="https://tommantonela.github.io/authors/juan-manuel-rodriguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Manuel Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Juan Manuel Rodriguez</title>
       <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
     </image>
+    
+    <item>
+      <title>Tracking the evolution of crisis processes and mental health on social mediaduring the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2020covid-arxiv/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020covid-arxiv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Features for detecting aggression in social media: An exploratory study</title>

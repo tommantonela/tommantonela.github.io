@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/publication_types/2/</link>
       <atom:link href="https://tommantonela.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
-      <link>https://tommantonela.github.io/publication/2019sts/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/publication/2019sts/</guid>
+      <title>Influence and performance of user similarity metrics in followee prediction</title>
+      <link>https://tommantonela.github.io/publication/2020jis/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020jis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards an effective e-Participation: an analysis of the interaction and engagement of Argentine digital citizens</title>
+      <link>https://tommantonela.github.io/publication/2020ejs/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020ejs/</guid>
       <description></description>
     </item>
     

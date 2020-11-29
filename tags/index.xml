@@ -5,12 +5,212 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://tommantonela.github.io/tags/covid-19/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crisis</title>
+      <link>https://tommantonela.github.io/tags/crisis/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Followee prediction</title>
+      <link>https://tommantonela.github.io/tags/followee-prediction/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/followee-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro-blogging communities</title>
+      <link>https://tommantonela.github.io/tags/micro-blogging-communities/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/micro-blogging-communities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psycho-linguistic Text Analysis</title>
+      <link>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>similarity metrics</title>
+      <link>https://tommantonela.github.io/tags/similarity-metrics/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/similarity-metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Analytic</title>
+      <link>https://tommantonela.github.io/tags/social-analytic/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-analytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://tommantonela.github.io/tags/social-media/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://tommantonela.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Cities</title>
+      <link>https://tommantonela.github.io/tags/smart-cities/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/smart-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Cities</title>
+      <link>https://tommantonela.github.io/tags/social-cities/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Good</title>
+      <link>https://tommantonela.github.io/tags/social-good/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hate Speech</title>
+      <link>https://tommantonela.github.io/tags/hate-speech/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/hate-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misinformation</title>
+      <link>https://tommantonela.github.io/tags/misinformation/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Harms</title>
+      <link>https://tommantonela.github.io/tags/online-harms/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/online-harms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>https://tommantonela.github.io/tags/dataset/</link>
+      <pubDate>Sat, 13 Jun 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake News</title>
+      <link>https://tommantonela.github.io/tags/fake-news/</link>
+      <pubDate>Sat, 13 Jun 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/fake-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://tommantonela.github.io/tags/content/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Context</title>
+      <link>https://tommantonela.github.io/tags/social-context/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-context/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciudadanos Digitales</title>
+      <link>https://tommantonela.github.io/tags/ciudadanos-digitales/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/ciudadanos-digitales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>e-Participacion</title>
+      <link>https://tommantonela.github.io/tags/e-participacion/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/e-participacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gobierno Abierto</title>
+      <link>https://tommantonela.github.io/tags/gobierno-abierto/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/gobierno-abierto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gobiernos Locales</title>
+      <link>https://tommantonela.github.io/tags/gobiernos-locales/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/gobiernos-locales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medios Sociales</title>
+      <link>https://tommantonela.github.io/tags/medios-sociales/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/medios-sociales/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Architectural Smells</title>
@@ -45,34 +245,10 @@
     </item>
     
     <item>
-      <title>Dataset</title>
-      <link>https://tommantonela.github.io/tags/dataset/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hate Perception</title>
       <link>https://tommantonela.github.io/tags/hate-perception/</link>
       <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/hate-perception/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hate Speech</title>
-      <link>https://tommantonela.github.io/tags/hate-speech/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/hate-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Media</title>
-      <link>https://tommantonela.github.io/tags/social-media/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-media/</guid>
       <description></description>
     </item>
     
@@ -101,54 +277,6 @@
     </item>
     
     <item>
-      <title>Smart Cities</title>
-      <link>https://tommantonela.github.io/tags/smart-cities/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/smart-cities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ciudadanos Digitales</title>
-      <link>https://tommantonela.github.io/tags/ciudadanos-digitales/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/ciudadanos-digitales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e-Participacion</title>
-      <link>https://tommantonela.github.io/tags/e-participacion/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/e-participacion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gobierno Abierto</title>
-      <link>https://tommantonela.github.io/tags/gobierno-abierto/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/gobierno-abierto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gobiernos Locales</title>
-      <link>https://tommantonela.github.io/tags/gobiernos-locales/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/gobiernos-locales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medios Sociales</title>
-      <link>https://tommantonela.github.io/tags/medios-sociales/</link>
-      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/medios-sociales/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sensitivity</title>
       <link>https://tommantonela.github.io/tags/sensitivity/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
@@ -173,18 +301,34 @@
     </item>
     
     <item>
-      <title>Fake News</title>
-      <link>https://tommantonela.github.io/tags/fake-news/</link>
-      <pubDate>Tue, 27 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/fake-news/</guid>
+      <title>Infodemiology</title>
+      <link>https://tommantonela.github.io/tags/infodemiology/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/infodemiology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Recommender Systems</title>
-      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
-      <pubDate>Thu, 06 Jun 2019 14:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
+      <title>Social Media Data</title>
+      <link>https://tommantonela.github.io/tags/social-media-data/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-media-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spanish language</title>
+      <link>https://tommantonela.github.io/tags/spanish-language/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/spanish-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://tommantonela.github.io/tags/twitter/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/twitter/</guid>
       <description></description>
     </item>
     
@@ -277,14 +421,6 @@
     </item>
     
     <item>
-      <title>Micro-blogging communities</title>
-      <link>https://tommantonela.github.io/tags/micro-blogging-communities/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/micro-blogging-communities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Module Dependencies</title>
       <link>https://tommantonela.github.io/tags/module-dependencies/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -365,14 +501,6 @@
     </item>
     
     <item>
-      <title>Social Media Data</title>
-      <link>https://tommantonela.github.io/tags/social-media-data/</link>
-      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-media-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Text Learning</title>
       <link>https://tommantonela.github.io/tags/text-learning/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
@@ -425,14 +553,6 @@
       <link>https://tommantonela.github.io/tags/personality-traits/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/personality-traits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twitter</title>
-      <link>https://tommantonela.github.io/tags/twitter/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/twitter/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,24 @@
     <link>https://tommantonela.github.io/tags/social-media-data/</link>
       <atom:link href="https://tommantonela.github.io/tags/social-media-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media Data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Social Media Data</title>
       <link>https://tommantonela.github.io/tags/social-media-data/</link>
     </image>
+    
+    <item>
+      <title>SpanishTweetsCOVID-19</title>
+      <link>https://tommantonela.github.io/datasets/spanishtweetscovid/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/datasets/spanishtweetscovid/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This dataset presents a large-scale collection of millions of Twitter posts related to the coronavirus pandemic in Spanish language. The collection was built by monitoring public posts written in Spanish containing a diverse set of hashtags related to the COVID-19, as well as tweets shared by the official Argentinian government offices, such as ministries and secretaries at different levels. Data was collected between March and June 2020 using the Twitter API, and will be periodically updated.&lt;/p&gt;
+&lt;p&gt;In addition to tweets IDs, the dataset includes information about mentions, retweets, media, URLs, hashtags, replies, users and content-based user relations, allowing the observation of the dynamics of the shared information. Data is presented in different tables that can be analysed separately or combined.&lt;/p&gt;
+&lt;p&gt;The dataset aims at serving as source for studying several coronavirus effects in people through social media, including the impact of public policies, the perception of risk and related disease consequences, the adoption of guidelines, the emergence, dynamics and propagation of disinformation and rumours, the formation of communities and other social phenomena, the evolution of health related indicators (such as fear, stress, sleep disorders, or children behaviour changes), among other possibilities. In this sense, the dataset can be useful for multi-disciplinary researchers related to the different fields of data science, social network analysis, social computing, medical informatics, social sciences, among others.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>Short-Text Feature Construction and Selection in Social Media Data: A Survey</title>

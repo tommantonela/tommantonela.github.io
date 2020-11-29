@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/</link>
       <atom:link href="https://tommantonela.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonela Tommasel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Antonela Tommasel</title>
@@ -52,6 +52,98 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Influence and performance of user similarity metrics in followee prediction</title>
+      <link>https://tommantonela.github.io/publication/2020jis/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020jis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the evolution of crisis processes and mental health on social mediaduring the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2020covid-arxiv/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020covid-arxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Smart Cities to Social Cities: Smart Cities at the Service of Social Good</title>
+      <link>https://tommantonela.github.io/talk/wids_kfump2020/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/talk/wids_kfump2020/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;“Today, 55 percent of the world’s population lives in urban areas, a proportion that is expected to increase to 68 percent by 2050.” – United Nations&lt;/p&gt;
+&lt;p&gt;Artificial intelligence has the potential to help improving many aspects of the daily life. In this context, making cities smarter is the challenge of the new era, which brings together aspects of computer sciences, physics, operations research, management science, decision sciences, economics and the social sciences. With the large amount of data available from diverse sources and the advance in technology, new opportunities to address the fundamental (and perhaps social) problems of cities, citizens and society arise. But this is not an individual effort. The more cities that are working toward the greater good, the more prosperous cities and citizens will be as a whole. In this talk we will explore how the data harnessed from cities can be applied to the social good. Then, we will focus on good practices for developing our solutions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2020recsys/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020recsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surviving to social media in the misinformation era </title>
+      <link>https://tommantonela.github.io/talk/wids_lapaz2020/</link>
+      <pubDate>Sat, 13 Jun 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/talk/wids_lapaz2020/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on social media and considering the consequences of the exposure to unwanted and unreliable content, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, in this talk we will explore the current actions that are being taken, and how simple processes as recommendations can affect misinformation diffusion. Then, we will focus on what is left to do and can we do to make social media a safer environment.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Faking It!</title>
+      <link>https://tommantonela.github.io/software_project/fakingit/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/software_project/fakingit/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Social media has become the primary source of news for their users. Besides fostering social connections between persons, social networks also represent the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which all affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. Nonetheless, even though some computational solutions have been presented, the lack of a common ground and public datasets has become one of the major barriers. Not only datasets are rare, but also, they are mostly limited to only the actual shared text, neglecting the importance of other features, such as social content and temporal information. In this scenario, this project proposes the creation of a publicly available dataset, comprising multi-sourced data and including diverse features related not only to the textual and multimedia content, but also to the social context of news and their temporal information. This dataset would not only allow tackling the task of fake news detection, but also studying their evolution, which, in turn, can foster the development of mitigation and debunking techniques.&lt;/p&gt;
+&lt;p&gt;The Figure shows the diffent types of data that can be retrived using Faking It!.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./img/fakingit_pipeline.png&#34; alt=&#34;Faking It! Pipeline&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In summary, Faking It! allows to collect:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Web content retrieved from urls given as input.&lt;/li&gt;
+&lt;li&gt;Social posts referring to the selected news.&lt;/li&gt;
+&lt;li&gt;Temporal diffusion of posts trajectory (for example, retweet or replies chains).&lt;/li&gt;
+&lt;li&gt;URL and images accompanying the retrieved posts.&lt;/li&gt;
+&lt;li&gt;For each user engaged in the diffusion process, the profile, posts and social network.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The original aim of the tool was collecting datasets related to the evolution and propagation of fake news. In this context, the collected multi-source datasets have the potential to contribute in the study of various open research problems related to fake news. The augmented set of features provides a unique opportunity to play with different techniques for detecting and analysing the evolution of fake news. Moreover, the temporal information enables the study of the processes of fake news diffusion and evolution, and the roles that users play in such processes through social media reactions. The proposed dataset could be the starting point of diverse exploratory studies and potential applications:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Fake news detection&lt;/em&gt;. One of the main difficulties is the lack of reliable labelled data and an extended feature set. The presented dataset aims at providing reliable labels annotated by humans and multi-sourced features including text, images, social context and temporal information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Fake news evolution and engagement cycle&lt;/em&gt;. The diffusion process involves different stages in users’ engagement and reaction. Using the temporal information could help to study how stories become viral and their diffusion trajectories across social media. This would also allow to study the roles that users play on the diffusion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Fake and malicious account detection&lt;/em&gt;. These types of accounts include social bots, trolls and spammers, which can all boost the spread of fake news. The user features in the dataset would allow studying the characteristics of such type of users, how they differentiate from legitimate users and how they contribute to the spread of disinformation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Fake news debunking&lt;/em&gt;. Knowing the evolution and trajectories of fake news could help in the study of the debunking process. Likewise, user reactions and answers in social media can provide useful elements to help to determine the veracity of a piece of news.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Towards an effective e-Participation: an analysis of the interaction and engagement of Argentine digital citizens</title>
+      <link>https://tommantonela.github.io/publication/2020ejs/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020ejs/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -240,6 +332,18 @@ evolution, which, in turn, can foster the development of mitigation and debunkin
 &lt;p&gt;Social media has become the primary source of news for their users by enriching the life and activities of its users, thus giving rise to new forms of communication and interaction. Besides fostering social connections between their users, social media also represents the ideal environment for undesirable phenomena, such as the dissemination of unwanted or aggressive content, misinformation and fake news, which affect the individuals as well as the society as a whole. Thereby, in the last few years, the research on misinformation has received increasing attention. The unlimited possibilities offered by social media sites generate new problems related to information overload, the quality of published information and the formation of new social relationships. This opens the possibility to the contamination of social media with unwanted and unreliable content (false news, rumours, spam, hoaxes), which influences the perception and understanding of events, exposing users to risks. Motivated by the large amount of heterogeneous information available on the social Web and considering the consequences of the exposure to unwanted and unreliable content on social media, the existence of accounts dedicated to sharing said content, and the rapid dispersion of both phenomena, the goal of this work in progress is the provision of reliable recommendation systems based on the integration of techniques that automatically allow the detection of unreliable content and the users publishing it. Thereby, in this talk we will explore the concept of user trustworthiness to avoid making &amp;ldquo;bad&amp;rdquo; recommendations that could favour the propagation of unreliable content and polluting users. Then, we will focus on how could we model the behaviour of users and their social groups in the context of the information diffusion process. Finally, we will talk about the planned actions and research milestones.&lt;/p&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SpanishTweetsCOVID-19</title>
+      <link>https://tommantonela.github.io/datasets/spanishtweetscovid/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/datasets/spanishtweetscovid/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This dataset presents a large-scale collection of millions of Twitter posts related to the coronavirus pandemic in Spanish language. The collection was built by monitoring public posts written in Spanish containing a diverse set of hashtags related to the COVID-19, as well as tweets shared by the official Argentinian government offices, such as ministries and secretaries at different levels. Data was collected between March and June 2020 using the Twitter API, and will be periodically updated.&lt;/p&gt;
+&lt;p&gt;In addition to tweets IDs, the dataset includes information about mentions, retweets, media, URLs, hashtags, replies, users and content-based user relations, allowing the observation of the dynamics of the shared information. Data is presented in different tables that can be analysed separately or combined.&lt;/p&gt;
+&lt;p&gt;The dataset aims at serving as source for studying several coronavirus effects in people through social media, including the impact of public policies, the perception of risk and related disease consequences, the adoption of guidelines, the emergence, dynamics and propagation of disinformation and rumours, the formation of communities and other social phenomena, the evolution of health related indicators (such as fear, stress, sleep disorders, or children behaviour changes), among other possibilities. In this sense, the dataset can be useful for multi-disciplinary researchers related to the different fields of data science, social network analysis, social computing, medical informatics, social sciences, among others.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>

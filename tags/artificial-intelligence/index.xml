@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artificial Intelligence | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/artificial-intelligence/</link>
+      <atom:link href="https://tommantonela.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artificial Intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 14:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Artificial Intelligence</title>
+      <link>https://tommantonela.github.io/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>From Smart Cities to Social Cities: Smart Cities at the Service of Social Good</title>
+      <link>https://tommantonela.github.io/talk/wids_kfump2020/</link>
+      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/talk/wids_kfump2020/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;“Today, 55 percent of the world’s population lives in urban areas, a proportion that is expected to increase to 68 percent by 2050.” – United Nations&lt;/p&gt;
+&lt;p&gt;Artificial intelligence has the potential to help improving many aspects of the daily life. In this context, making cities smarter is the challenge of the new era, which brings together aspects of computer sciences, physics, operations research, management science, decision sciences, economics and the social sciences. With the large amount of data available from diverse sources and the advance in technology, new opportunities to address the fundamental (and perhaps social) problems of cities, citizens and society arise. But this is not an individual effort. The more cities that are working toward the greater good, the more prosperous cities and citizens will be as a whole. In this talk we will explore how the data harnessed from cities can be applied to the social good. Then, we will focus on good practices for developing our solutions.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

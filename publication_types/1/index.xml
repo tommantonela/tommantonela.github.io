@@ -5,12 +5,28 @@
     <link>https://tommantonela.github.io/publication_types/1/</link>
       <atom:link href="https://tommantonela.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>https://tommantonela.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2020recsys/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020recsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciudadanos Digitales: explorando el rol de los medios sociales de comunicacion en la e-Participacion</title>
+      <link>https://tommantonela.github.io/publication/2019sts/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2019sts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Friend or Foe: Studying user Trustworthiness for Friend Recommendation in the Era of Misinformation</title>
