@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/architectural-smells/</link>
       <atom:link href="https://tommantonela.github.io/tags/architectural-smells/index.xml" rel="self" type="application/rss+xml" />
     <description>Architectural Smells</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Architectural Smells</title>
       <link>https://tommantonela.github.io/tags/architectural-smells/</link>
     </image>
+    
+    <item>
+      <title>Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index</title>
+      <link>https://tommantonela.github.io/publication/2020argencon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020argencon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debt Index | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/debt-index/</link>
+      <atom:link href="https://tommantonela.github.io/tags/debt-index/index.xml" rel="self" type="application/rss+xml" />
+    <description>Debt Index</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Debt Index</title>
+      <link>https://tommantonela.github.io/tags/debt-index/</link>
+    </image>
+    
+    <item>
+      <title>Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index</title>
+      <link>https://tommantonela.github.io/publication/2020argencon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020argencon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

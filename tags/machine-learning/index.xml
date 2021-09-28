@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/machine-learning/</link>
       <atom:link href="https://tommantonela.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Oct 2019 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Machine Learning</title>
       <link>https://tommantonela.github.io/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>DebtHunter: A Machine Learning-based Approach for Detecting Self-Admitted Technical Debt</title>
+      <link>https://tommantonela.github.io/publication/2021ease/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021ease/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Keeping one-step ahead of Architectural Smells: A Machine Learning application</title>

@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/tags/social-media-data/</link>
       <atom:link href="https://tommantonela.github.io/tags/social-media-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media Data</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Social Media Data</title>
@@ -13,9 +13,22 @@
     </image>
     
     <item>
+      <title>GobBsAsTweets</title>
+      <link>https://tommantonela.github.io/datasets/gobbsastweets/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/datasets/gobbsastweets/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This dataset presents a collection of the official local governments&amp;rsquo; Twitter activity in Buenos Aires Province in Argentina. The collection is entirely in Spanish and was built by crawling each local government&#39;s social media accounts and the reactions it received. The collection focuses on the content-based relations established between the local government authorities and the citizens, instead of on the follower/followee relationship.
+The dataset is useful for studying how government entities manifest themselves in social media and their different ways of transmitting information; and how citizens interact and express their commitment to the government entities.
+The collection includes the account activities during the COVID-19 pandemic.
+Data was collected using the Twitter API and will be periodically updated.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
       <title>SpanishTweetsCOVID-19</title>
       <link>https://tommantonela.github.io/datasets/spanishtweetscovid/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/datasets/spanishtweetscovid/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This dataset presents a large-scale collection of millions of Twitter posts related to the coronavirus pandemic in Spanish language. The collection was built by monitoring public posts written in Spanish containing a diverse set of hashtags related to the COVID-19, as well as tweets shared by the official Argentinian government offices, such as ministries and secretaries at different levels. Data was collected between March and June 2020 using the Twitter API, and will be periodically updated.&lt;/p&gt;

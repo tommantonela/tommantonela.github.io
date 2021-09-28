@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/authors/andres-diaz-pace/</link>
       <atom:link href="https://tommantonela.github.io/authors/andres-diaz-pace/index.xml" rel="self" type="application/rss+xml" />
     <description>Andres Diaz Pace</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Andres Diaz Pace</title>
       <link>https://tommantonela.github.io/authors/andres-diaz-pace/</link>
     </image>
+    
+    <item>
+      <title>Forecasting mental health and emotions based on social media expressions during the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2021iid/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021iid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards an effective e-Participation: an analysis of the interaction and engagement of Argentine digital citizens</title>

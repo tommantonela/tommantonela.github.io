@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/hate-speech/</link>
       <atom:link href="https://tommantonela.github.io/tags/hate-speech/index.xml" rel="self" type="application/rss+xml" />
     <description>Hate Speech</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Hate Speech</title>
       <link>https://tommantonela.github.io/tags/hate-speech/</link>
     </image>
+    
+    <item>
+      <title>OHARS: Second Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2021recsysa/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>

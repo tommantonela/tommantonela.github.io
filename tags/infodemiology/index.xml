@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/tags/infodemiology/</link>
       <atom:link href="https://tommantonela.github.io/tags/infodemiology/index.xml" rel="self" type="application/rss+xml" />
     <description>Infodemiology</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Infodemiology</title>
@@ -15,7 +15,7 @@
     <item>
       <title>SpanishTweetsCOVID-19</title>
       <link>https://tommantonela.github.io/datasets/spanishtweetscovid/</link>
-      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/datasets/spanishtweetscovid/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;This dataset presents a large-scale collection of millions of Twitter posts related to the coronavirus pandemic in Spanish language. The collection was built by monitoring public posts written in Spanish containing a diverse set of hashtags related to the COVID-19, as well as tweets shared by the official Argentinian government offices, such as ministries and secretaries at different levels. Data was collected between March and June 2020 using the Twitter API, and will be periodically updated.&lt;/p&gt;

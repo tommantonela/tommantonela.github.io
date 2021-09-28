@@ -5,12 +5,28 @@
     <link>https://tommantonela.github.io/tags/recommender-systems/</link>
       <atom:link href="https://tommantonela.github.io/tags/recommender-systems/index.xml" rel="self" type="application/rss+xml" />
     <description>Recommender Systems</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recommender Systems</title>
       <link>https://tommantonela.github.io/tags/recommender-systems/</link>
     </image>
+    
+    <item>
+      <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>
+      <link>https://tommantonela.github.io/publication/2021recsysb/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OHARS: Second Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2021recsysa/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Influence and performance of user similarity metrics in followee prediction</title>

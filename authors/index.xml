@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/authors/</link>
       <atom:link href="https://tommantonela.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,15 +15,23 @@
     <item>
       <title>Antonela Tommasel</title>
       <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/antonela-tommasel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arkaitz Zubiaga</title>
+      <link>https://tommantonela.github.io/authors/arkaitz-zubiaga/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/arkaitz-zubiaga/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniela Godoy</title>
       <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
       <description></description>
     </item>
@@ -31,23 +39,31 @@
     <item>
       <title>Juan Manuel Rodriguez</title>
       <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Arkaitz Zubiaga</title>
-      <link>https://tommantonela.github.io/authors/arkaitz-zubiaga/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/arkaitz-zubiaga/</guid>
+      <title>Francesca Arcelli Fontana</title>
+      <link>https://tommantonela.github.io/authors/francesca-arcelli-fontana/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/francesca-arcelli-fontana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Irene Sala</title>
+      <link>https://tommantonela.github.io/authors/irene-sala/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/irene-sala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andres Diaz Pace</title>
       <link>https://tommantonela.github.io/authors/andres-diaz-pace/</link>
-      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/andres-diaz-pace/</guid>
       <description></description>
     </item>
@@ -55,7 +71,7 @@
     <item>
       <title></title>
       <link>https://tommantonela.github.io/authors/admin/</link>
-      <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am Antonela Tommasel. I am currently a Researcher at 
 &lt;a href=&#34;https://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt;
@@ -67,6 +83,22 @@
 &lt;p&gt;My main research interests include social computing applications of machine learning and recommender systems.&lt;/p&gt;
 &lt;p&gt;6+ years of research experience. 8+ years of teaching experience.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Ilaria Pigazzini</title>
+      <link>https://tommantonela.github.io/authors/ilaria-pigazzini/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/ilaria-pigazzini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge Andres Diaz-Pace</title>
+      <link>https://tommantonela.github.io/authors/jorge-andres-diaz-pace/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/jorge-andres-diaz-pace/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -106,14 +138,6 @@
       <link>https://tommantonela.github.io/authors/silvia-schiaffino/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/silvia-schiaffino/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jorge Andres Diaz-Pace</title>
-      <link>https://tommantonela.github.io/authors/jorge-andres-diaz-pace/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/jorge-andres-diaz-pace/</guid>
       <description></description>
     </item>
     

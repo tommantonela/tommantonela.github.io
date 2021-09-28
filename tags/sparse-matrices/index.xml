@@ -5,12 +5,34 @@
     <link>https://tommantonela.github.io/tags/sparse-matrices/</link>
       <atom:link href="https://tommantonela.github.io/tags/sparse-matrices/index.xml" rel="self" type="application/rss+xml" />
     <description>Sparse Matrices</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 06 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Sparse Matrices</title>
       <link>https://tommantonela.github.io/tags/sparse-matrices/</link>
     </image>
+    
+    <item>
+      <title>graphoW</title>
+      <link>https://tommantonela.github.io/software_project/graphow/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/software_project/graphow/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;graphoW is a Python package for the creation of a Graph-of-Words (GoW) representation of texts.&lt;/p&gt;
+&lt;p&gt;Structure is based on: &amp;ldquo;Graph-of-word and TW-IDF: new approach to ad hoc IR&amp;rdquo;
+Graph metrics are based on: &amp;ldquo;Graph analysis of dream reports is especially informative about psychosis&amp;rdquo;
+Narrative consistency and rapidity are based on: &amp;ldquo;Measuring Narrative Fluency by Analyzing Dynamic Interaction Networks in Textual Narratives&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;It allows to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a GoW for individual texts.&lt;/li&gt;
+&lt;li&gt;Create a container of GoW in which each GoW corresponds to a paragraph in the text.&lt;/li&gt;
+&lt;li&gt;Compute diverse types of graph metrics (e.g., individual, global, connectivity&amp;hellip;).&lt;/li&gt;
+&lt;li&gt;Compute the narrative consistency of text based on all terms or only on noun phrases.&lt;/li&gt;
+&lt;li&gt;Compute the rapidity of a text, i.e., how slow/fast change the structure of paragraphs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;graphoW is licenced under the Apache License V2.0. Copyright 2021 - ISISTAN - UNICEN - CONICET&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
     
     <item>
       <title>SMArtOp</title>

@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/link-prediction/</link>
       <atom:link href="https://tommantonela.github.io/tags/link-prediction/index.xml" rel="self" type="application/rss+xml" />
     <description>Link Prediction</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Link Prediction</title>
       <link>https://tommantonela.github.io/tags/link-prediction/</link>
     </image>
+    
+    <item>
+      <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>
+      <link>https://tommantonela.github.io/publication/2021recsysb/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>[Research Paper] Towards Anticipation of Architectural Smells Using Link Prediction Techniques</title>

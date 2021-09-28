@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citizenship | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/citizenship/</link>
+      <atom:link href="https://tommantonela.github.io/tags/citizenship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Citizenship</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Citizenship</title>
+      <link>https://tommantonela.github.io/tags/citizenship/</link>
+    </image>
+    
+    <item>
+      <title>GobBsAsTweets</title>
+      <link>https://tommantonela.github.io/datasets/gobbsastweets/</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/datasets/gobbsastweets/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This dataset presents a collection of the official local governments&amp;rsquo; Twitter activity in Buenos Aires Province in Argentina. The collection is entirely in Spanish and was built by crawling each local government&#39;s social media accounts and the reactions it received. The collection focuses on the content-based relations established between the local government authorities and the citizens, instead of on the follower/followee relationship.
+The dataset is useful for studying how government entities manifest themselves in social media and their different ways of transmitting information; and how citizens interact and express their commitment to the government entities.
+The collection includes the account activities during the COVID-19 pandemic.
+Data was collected using the Twitter API and will be periodically updated.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

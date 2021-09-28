@@ -5,12 +5,52 @@
     <link>https://tommantonela.github.io/publication/</link>
       <atom:link href="https://tommantonela.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://tommantonela.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>
+      <link>https://tommantonela.github.io/publication/2021recsysb/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OHARS: Second Workshop on Online Misinformation- and Harm-Aware Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2021recsysa/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DebtHunter: A Machine Learning-based Approach for Detecting Self-Admitted Technical Debt</title>
+      <link>https://tommantonela.github.io/publication/2021ease/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021ease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting mental health and emotions based on social media expressions during the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2021iid/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021iid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sen4Smells: A Tool for Ranking Sensitive Smells for an Architecture Debt Index</title>
+      <link>https://tommantonela.github.io/publication/2020argencon/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2020argencon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Influence and performance of user similarity metrics in followee prediction</title>

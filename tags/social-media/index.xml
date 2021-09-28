@@ -5,12 +5,40 @@
     <link>https://tommantonela.github.io/tags/social-media/</link>
       <atom:link href="https://tommantonela.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
     <description>Social Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Social Media</title>
       <link>https://tommantonela.github.io/tags/social-media/</link>
     </image>
+    
+    <item>
+      <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>
+      <link>https://tommantonela.github.io/publication/2021recsysb/</link>
+      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021recsysb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forecasting mental health and emotions based on social media expressions during the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2021iid/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021iid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lo que Twitter nos cuenta de la crisis del COVID-19 y sus efectos en la salud mental en Argentina</title>
+      <link>https://tommantonela.github.io/post/covid_medium/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/post/covid_medium/</guid>
+      <description>&lt;p&gt;Desde Marzo de 2020 a esta parte, la crisis del COVID-19 nos afectó a todos en mayor o menor medida, no solo por sus implicancias médicas sino también por los desafíos que ha planteado respecto a la gestión gubernamental, y a nuestra salud mental. En los últimos años, las redes sociales se han convertido en una parte importante de la vida diaria de millones de usuarios que intercambian un gran volumen y variedad de mensajes diariamente. La pandemia no ha hecho más que incrementar esta tendencia, y nos ha permitido compartir nuestras vivencias y preocupaciones de forma masiva. Este fenómeno constituye una oportunidad única para estudiar los aspectos sociales de la pandemia en función de la actividad que se generó en las redes sociales, y cómo ciertos mensajes compartidos sobre el COVID-19 se relacionan con los procesos de crisis estudiados desde la psicología, y con diversos aspectos del comportamiento social y la salud mental de una población.&lt;/p&gt;
+&lt;p&gt;El resto del artículo se encuentra disponible en 
+&lt;a href=&#34;https://medium.com/@antonelatommasel/lo-que-twitter-nos-cuenta-de-la-crisis-del-covid-19-y-sus-efectos-en-la-salud-mental-en-argentina-44ae49fae73c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Medium&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Influence and performance of user similarity metrics in followee prediction</title>
@@ -87,6 +115,72 @@ that demographics substantially affect hate speech perception. In this context, 
 &lt;/div&gt;
 &lt;div style=&#34;text-align: center&#34;&gt;
 &lt;em&gt;How do latent norms and biases caused by demographics derive in biased datasets, which affects the performance of hate speech detection systems?&lt;/em&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Citizens</title>
+      <link>https://tommantonela.github.io/project/digital-citizenship-copy-2/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/digital-citizenship-copy-2/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Democracy and formal political processes depend fundamentally on effective communication and
+informed decision-making on public issues. The development of digital technologies, the expansion
+of the Internet and the growth of social networks have generated profound changes in political
+forms at a global level, modifying the bases of citizen participation. These new technologies have
+been established as a new way to channel and facilitate citizen participation in a given territory,
+offering new communication tools with government entities and their authorities. EParticipation
+involves the use of the information and communication technologies, mainly Internet, as the means
+of participation in democratic and consultative social processes. The goal of eParticipation is to
+support active citizenship with the latest technological developments, increasing access and the
+possibility of participating, and promoting a government that is open and close to citizens.
+Considering that democratic systems favour the interests of large groups of citizens, the more voices
+supporting a political proposal, the greater their chances of success. However, achieving effective
+citizen participation is a challenge, given that the simple fact of having access to online services does
+not imply the willingness of citizens to participate. In this context, social media sites could have a
+preponderant role in terms of citizen participation, making individuals not only feel that they have
+access to the information directly and permanently, but also the right to be involved in the public
+discourse and decisions. Consequently, it is necessary to carry out studies for determining the
+current status and perspectives of citizen participation in the context of social media. Thereby, this
+project aims to study and characterize the relationship between digital citizens and government
+entities in social media, in the context of eParticipation, to enable the definition of practices and
+strategies that lead to the efficient use of social media for communication between public
+institutions and citizens.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digital Citizens</title>
+      <link>https://tommantonela.github.io/project/digital-citizenship-copy/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/digital-citizenship-copy/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded by UNICEN.&lt;/p&gt;
+&lt;p&gt;PI: Antonela Tommasel&lt;/p&gt;
+&lt;p&gt;Democracy and formal political processes depend fundamentally on effective communication and
+informed decision-making on public issues. The development of digital technologies, the expansion
+of the Internet and the growth of social networks have generated profound changes in political
+forms at a global level, modifying the bases of citizen participation. These new technologies have
+been established as a new way to channel and facilitate citizen participation in a given territory,
+offering new communication tools with government entities and their authorities. EParticipation
+involves the use of the information and communication technologies, mainly Internet, as the means
+of participation in democratic and consultative social processes. The goal of eParticipation is to
+support active citizenship with the latest technological developments, increasing access and the
+possibility of participating, and promoting a government that is open and close to citizens.
+Considering that democratic systems favour the interests of large groups of citizens, the more voices
+supporting a political proposal, the greater their chances of success. However, achieving effective
+citizen participation is a challenge, given that the simple fact of having access to online services does
+not imply the willingness of citizens to participate. In this context, social media sites could have a
+preponderant role in terms of citizen participation, making individuals not only feel that they have
+access to the information directly and permanently, but also the right to be involved in the public
+discourse and decisions. Consequently, it is necessary to carry out studies for determining the
+current status and perspectives of citizen participation in the context of social media. Thereby, this
+project aims to study and characterize the relationship between digital citizens and government
+entities in social media, in the context of eParticipation, to enable the definition of practices and
+strategies that lead to the efficient use of social media for communication between public
+institutions and citizens.&lt;/p&gt;
 &lt;/div&gt;</description>
     </item>
     
