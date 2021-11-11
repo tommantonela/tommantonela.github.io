@@ -5,12 +5,84 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Dreams</title>
+      <link>https://tommantonela.github.io/tags/dreams/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/dreams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio Linguistic Analysis</title>
+      <link>https://tommantonela.github.io/tags/socio-linguistic-analysis/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/socio-linguistic-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-19</title>
+      <link>https://tommantonela.github.io/tags/covid-19/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/covid-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crisis</title>
+      <link>https://tommantonela.github.io/tags/crisis/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/crisis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psycho-linguistic Text Analysis</title>
+      <link>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Analytic</title>
+      <link>https://tommantonela.github.io/tags/social-analytic/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-analytic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Analytics</title>
+      <link>https://tommantonela.github.io/tags/social-analytics/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://tommantonela.github.io/tags/social-media/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diversity</title>
@@ -77,18 +149,26 @@
     </item>
     
     <item>
-      <title>Social Media</title>
-      <link>https://tommantonela.github.io/tags/social-media/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Social Network Analysis</title>
       <link>https://tommantonela.github.io/tags/social-network-analysis/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/social-network-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bias</title>
+      <link>https://tommantonela.github.io/tags/bias/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misogyny Detection</title>
+      <link>https://tommantonela.github.io/tags/misogyny-detection/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/misogyny-detection/</guid>
       <description></description>
     </item>
     
@@ -125,14 +205,6 @@
     </item>
     
     <item>
-      <title>Natural Language Processing</title>
-      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Self-admitted Technical Debt</title>
       <link>https://tommantonela.github.io/tags/self-admitted-technical-debt/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -149,34 +221,10 @@
     </item>
     
     <item>
-      <title>COVID-19</title>
-      <link>https://tommantonela.github.io/tags/covid-19/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/covid-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mental Health</title>
       <link>https://tommantonela.github.io/tags/mental-health/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Psycho-linguistic Text Analysis</title>
-      <link>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/psycho-linguistic-text-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Analytics</title>
-      <link>https://tommantonela.github.io/tags/social-analytics/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-analytics/</guid>
       <description></description>
     </item>
     
@@ -285,14 +333,6 @@
     </item>
     
     <item>
-      <title>Crisis</title>
-      <link>https://tommantonela.github.io/tags/crisis/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/crisis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Followee prediction</title>
       <link>https://tommantonela.github.io/tags/followee-prediction/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
@@ -313,14 +353,6 @@
       <link>https://tommantonela.github.io/tags/similarity-metrics/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/similarity-metrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Analytic</title>
-      <link>https://tommantonela.github.io/tags/social-analytic/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-analytic/</guid>
       <description></description>
     </item>
     
@@ -441,14 +473,6 @@
       <link>https://tommantonela.github.io/tags/software-architecture/</link>
       <pubDate>Wed, 02 Oct 2019 14:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/software-architecture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bias</title>
-      <link>https://tommantonela.github.io/tags/bias/</link>
-      <pubDate>Fri, 27 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/bias/</guid>
       <description></description>
     </item>
     

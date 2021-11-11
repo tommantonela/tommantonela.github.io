@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Gleiser | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/pablo-gleiser/</link>
+      <atom:link href="https://tommantonela.github.io/authors/pablo-gleiser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Gleiser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pablo Gleiser</title>
+      <link>https://tommantonela.github.io/authors/pablo-gleiser/</link>
+    </image>
+    
+    <item>
+      <title>Dream content during lucid dreams and out-of-body experiences, differences and similarities</title>
+      <link>https://tommantonela.github.io/publication/2021sanb/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021sanb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural differences between non-lucid, lucid dreams and out-of-body experience reports assessed by graph analysis</title>
+      <link>https://tommantonela.github.io/publication/2021sana/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021sana/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

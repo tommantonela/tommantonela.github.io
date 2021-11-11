@@ -5,12 +5,36 @@
     <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
       <atom:link href="https://tommantonela.github.io/authors/antonela-tommasel/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonela Tommasel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Antonela Tommasel</title>
       <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
     </image>
+    
+    <item>
+      <title>Dream content during lucid dreams and out-of-body experiences, differences and similarities</title>
+      <link>https://tommantonela.github.io/publication/2021sanb/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021sanb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural differences between non-lucid, lucid dreams and out-of-body experience reports assessed by graph analysis</title>
+      <link>https://tommantonela.github.io/publication/2021sana/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021sana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracking the evolution of crisis processes and mental health on social media during the COVID-19 pandemic</title>
+      <link>https://tommantonela.github.io/publication/2021tbit/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021tbit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>
@@ -25,6 +49,14 @@
       <link>https://tommantonela.github.io/publication/2021recsysa/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/publication/2021recsysa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is my model biased? Exploring Unintended Bias in Misogyny Detection Tasks</title>
+      <link>https://tommantonela.github.io/publication/2021aiofai/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021aiofai/</guid>
       <description></description>
     </item>
     
