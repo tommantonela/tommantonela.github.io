@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/authors/</link>
       <atom:link href="https://tommantonela.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,8 +15,48 @@
     <item>
       <title>Antonela Tommasel</title>
       <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/antonela-tommasel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniela Godoy</title>
+      <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filippo Menczer</title>
+      <link>https://tommantonela.github.io/authors/filippo-menczer/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/filippo-menczer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan Manuel Rodriguez</title>
+      <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Julian Mastieri</title>
+      <link>https://tommantonela.github.io/authors/julian-mastieri/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/julian-mastieri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>María Pía Goicoechea</title>
+      <link>https://tommantonela.github.io/authors/maria-pia-goicoechea/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/maria-pia-goicoechea/</guid>
       <description></description>
     </item>
     
@@ -25,14 +65,6 @@
       <link>https://tommantonela.github.io/authors/cecilia-forcato/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/cecilia-forcato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniela Godoy</title>
-      <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
       <description></description>
     </item>
     
@@ -65,14 +97,6 @@
       <link>https://tommantonela.github.io/authors/andres-diaz-pace/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/andres-diaz-pace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juan Manuel Rodriguez</title>
-      <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</guid>
       <description></description>
     </item>
     

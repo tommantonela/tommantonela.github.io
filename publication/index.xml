@@ -5,12 +5,36 @@
     <link>https://tommantonela.github.io/publication/</link>
       <atom:link href="https://tommantonela.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://tommantonela.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Following the Trail of Fake News Spreaders in Social Media: A Deep Learning Model</title>
+      <link>https://tommantonela.github.io/publication/2022umapa/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022umapa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haven’t I just Listened to This?: Exploring Diversity in Music Recommendations</title>
+      <link>https://tommantonela.github.io/publication/2022umapb/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022umapb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Learning model for estimating parking space availability</title>
+      <link>https://tommantonela.github.io/publication/2021jccc/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021jccc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dream content during lucid dreams and out-of-body experiences, differences and similarities</title>

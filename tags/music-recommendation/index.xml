@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music recommendation | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/music-recommendation/</link>
+      <atom:link href="https://tommantonela.github.io/tags/music-recommendation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Music recommendation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Music recommendation</title>
+      <link>https://tommantonela.github.io/tags/music-recommendation/</link>
+    </image>
+    
+    <item>
+      <title>Haven’t I just Listened to This?: Exploring Diversity in Music Recommendations</title>
+      <link>https://tommantonela.github.io/publication/2022umapb/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022umapb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

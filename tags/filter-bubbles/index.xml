@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/filter-bubbles/</link>
       <atom:link href="https://tommantonela.github.io/tags/filter-bubbles/index.xml" rel="self" type="application/rss+xml" />
     <description>Filter Bubbles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Filter Bubbles</title>
       <link>https://tommantonela.github.io/tags/filter-bubbles/</link>
     </image>
+    
+    <item>
+      <title>Haven’t I just Listened to This?: Exploring Diversity in Music Recommendations</title>
+      <link>https://tommantonela.github.io/publication/2022umapb/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022umapb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>I Want to Break Free! Recommending Friends from Outside the Echo Chamber</title>

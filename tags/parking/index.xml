@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parking | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/parking/</link>
+      <atom:link href="https://tommantonela.github.io/tags/parking/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parking</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Parking</title>
+      <link>https://tommantonela.github.io/tags/parking/</link>
+    </image>
+    
+    <item>
+      <title>A Deep Learning model for estimating parking space availability</title>
+      <link>https://tommantonela.github.io/publication/2021jccc/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021jccc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

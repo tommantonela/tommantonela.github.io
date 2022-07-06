@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User Profiling | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/user-profiling/</link>
+      <atom:link href="https://tommantonela.github.io/tags/user-profiling/index.xml" rel="self" type="application/rss+xml" />
+    <description>User Profiling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>User Profiling</title>
+      <link>https://tommantonela.github.io/tags/user-profiling/</link>
+    </image>
+    
+    <item>
+      <title>Following the Trail of Fake News Spreaders in Social Media: A Deep Learning Model</title>
+      <link>https://tommantonela.github.io/publication/2022umapa/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022umapa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

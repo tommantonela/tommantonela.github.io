@@ -5,12 +5,116 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Diversity</title>
+      <link>https://tommantonela.github.io/tags/diversity/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake News</title>
+      <link>https://tommantonela.github.io/tags/fake-news/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/fake-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake News spreaders</title>
+      <link>https://tommantonela.github.io/tags/fake-news-spreaders/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/fake-news-spreaders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Filter Bubbles</title>
+      <link>https://tommantonela.github.io/tags/filter-bubbles/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/filter-bubbles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misinformation spreaders</title>
+      <link>https://tommantonela.github.io/tags/misinformation-spreaders/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/misinformation-spreaders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Music recommendation</title>
+      <link>https://tommantonela.github.io/tags/music-recommendation/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/music-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://tommantonela.github.io/tags/social-media/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>User Profiling</title>
+      <link>https://tommantonela.github.io/tags/user-profiling/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/user-profiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://tommantonela.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parking</title>
+      <link>https://tommantonela.github.io/tags/parking/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/parking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Cities</title>
+      <link>https://tommantonela.github.io/tags/smart-cities/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/smart-cities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Mobility</title>
+      <link>https://tommantonela.github.io/tags/smart-mobility/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/smart-mobility/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dreams</title>
@@ -77,34 +181,10 @@
     </item>
     
     <item>
-      <title>Social Media</title>
-      <link>https://tommantonela.github.io/tags/social-media/</link>
-      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diversity</title>
-      <link>https://tommantonela.github.io/tags/diversity/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/diversity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Echo Chamber</title>
       <link>https://tommantonela.github.io/tags/echo-chamber/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/echo-chamber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Filter Bubbles</title>
-      <link>https://tommantonela.github.io/tags/filter-bubbles/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/filter-bubbles/</guid>
       <description></description>
     </item>
     
@@ -137,14 +217,6 @@
       <link>https://tommantonela.github.io/tags/online-harms/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/online-harms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommender Systems</title>
-      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
       <description></description>
     </item>
     
@@ -341,7 +413,7 @@
     </item>
     
     <item>
-      <title>micro-blogging communities</title>
+      <title>Micro-blogging communities</title>
       <link>https://tommantonela.github.io/tags/micro-blogging-communities/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/micro-blogging-communities/</guid>
@@ -361,14 +433,6 @@
       <link>https://tommantonela.github.io/tags/artificial-intelligence/</link>
       <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smart Cities</title>
-      <link>https://tommantonela.github.io/tags/smart-cities/</link>
-      <pubDate>Wed, 28 Oct 2020 14:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/smart-cities/</guid>
       <description></description>
     </item>
     
@@ -393,14 +457,6 @@
       <link>https://tommantonela.github.io/tags/dataset/</link>
       <pubDate>Sat, 13 Jun 2020 14:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/dataset/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fake News</title>
-      <link>https://tommantonela.github.io/tags/fake-news/</link>
-      <pubDate>Sat, 13 Jun 2020 14:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/fake-news/</guid>
       <description></description>
     </item>
     

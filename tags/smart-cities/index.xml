@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/tags/smart-cities/</link>
       <atom:link href="https://tommantonela.github.io/tags/smart-cities/index.xml" rel="self" type="application/rss+xml" />
     <description>Smart Cities</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Smart Cities</title>
       <link>https://tommantonela.github.io/tags/smart-cities/</link>
     </image>
+    
+    <item>
+      <title>A Deep Learning model for estimating parking space availability</title>
+      <link>https://tommantonela.github.io/publication/2021jccc/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2021jccc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Smart Cities to Social Cities: Smart Cities at the Service of Social Good</title>
