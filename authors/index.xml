@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/authors/</link>
       <atom:link href="https://tommantonela.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,23 +15,95 @@
     <item>
       <title>Antonela Tommasel</title>
       <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/antonela-tommasel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joaquín Saralegui</title>
+      <link>https://tommantonela.github.io/authors/joaquin-saralegui/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/joaquin-saralegui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfonsina Soto Pineda</title>
+      <link>https://tommantonela.github.io/authors/alfonsina-soto-pineda/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/alfonsina-soto-pineda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camila Lospinoso</title>
+      <link>https://tommantonela.github.io/authors/camila-lospinoso/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/camila-lospinoso/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Daniela Godoy</title>
       <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diego García-Olano</title>
+      <link>https://tommantonela.github.io/authors/diego-garcia-olano/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/diego-garcia-olano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ezequiel Valicenti</title>
+      <link>https://tommantonela.github.io/authors/ezequiel-valicenti/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/ezequiel-valicenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J. Andrés Diaz Pace</title>
+      <link>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Giosa</title>
+      <link>https://tommantonela.github.io/authors/laura-giosa/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/laura-giosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mariana Brocca</title>
+      <link>https://tommantonela.github.io/authors/mariana-brocca/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/mariana-brocca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Silvia Schiaffino</title>
+      <link>https://tommantonela.github.io/authors/silvia-schiaffino/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/silvia-schiaffino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Filippo Menczer</title>
       <link>https://tommantonela.github.io/authors/filippo-menczer/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/filippo-menczer/</guid>
       <description></description>
     </item>
@@ -129,15 +201,15 @@
       <link>https://tommantonela.github.io/authors/admin/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am Antonela Tommasel. I am currently a Researcher at 
+      <description>&lt;p&gt;I&#39;m Antonela Tommasel. I&#39;m currently a Researcher at 
 &lt;a href=&#34;https://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt;
 , working in the Recommender Systems group at 
 &lt;a href=&#34;http://www.isistan.unicen.edu.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISISTAN&lt;/a&gt;
- Research Institute in Tandil, Argentina. I am also a Teacher Assistant at 
+ Research Institute in Tandil, Argentina. I&#39;m also an Adjunct Professor at 
 &lt;a href=&#34;http://www.unicen.edu.ar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNICEN&lt;/a&gt;
 .&lt;/p&gt;
 &lt;p&gt;My main research interests include social computing applications of machine learning and recommender systems.&lt;/p&gt;
-&lt;p&gt;6+ years of research experience. 8+ years of teaching experience.&lt;/p&gt;
+&lt;p&gt;8+ years of research experience. 11+ years of teaching experience.&lt;/p&gt;
 </description>
     </item>
     
@@ -186,14 +258,6 @@
       <link>https://tommantonela.github.io/authors/alejandro-corbellini/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/alejandro-corbellini/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Silvia Schiaffino</title>
-      <link>https://tommantonela.github.io/authors/silvia-schiaffino/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/silvia-schiaffino/</guid>
       <description></description>
     </item>
     

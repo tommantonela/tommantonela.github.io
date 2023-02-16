@@ -5,12 +5,44 @@
     <link>https://tommantonela.github.io/publication/</link>
       <atom:link href="https://tommantonela.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>https://tommantonela.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Towards automated fact-checking: An exploratory study on the detection of checkable statements in Spanish</title>
+      <link>https://tommantonela.github.io/publication/2022jccc/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022jccc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detección de sesgos en razón del género en decisiones judiciales utilizando PLN</title>
+      <link>https://tommantonela.github.io/publication/2022jaiio/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022jaiio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Recommender Systems Make Social Media More Susceptible to Misinformation Spreaders?</title>
+      <link>https://tommantonela.github.io/publication/2022recsys/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022recsys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying emerging smells in software designs based on predicting package dependencies</title>
+      <link>https://tommantonela.github.io/publication/2022eaai/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022eaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Following the Trail of Fake News Spreaders in Social Media: A Deep Learning Model</title>

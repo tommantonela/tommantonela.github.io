@@ -5,12 +5,100 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Claim Detection</title>
+      <link>https://tommantonela.github.io/tags/claim-detection/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/claim-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fact-checking</title>
+      <link>https://tommantonela.github.io/tags/fact-checking/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/fact-checking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Classification</title>
+      <link>https://tommantonela.github.io/tags/text-classification/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/text-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gender Bias</title>
+      <link>https://tommantonela.github.io/tags/gender-bias/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/gender-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Analysis</title>
+      <link>https://tommantonela.github.io/tags/text-analysis/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion Models</title>
+      <link>https://tommantonela.github.io/tags/diffusion-models/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/diffusion-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link Prediction</title>
+      <link>https://tommantonela.github.io/tags/link-prediction/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/link-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Misinformation</title>
+      <link>https://tommantonela.github.io/tags/misinformation/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/misinformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommender Systems</title>
+      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://tommantonela.github.io/tags/social-media/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diversity</title>
@@ -61,22 +149,6 @@
     </item>
     
     <item>
-      <title>Recommender Systems</title>
-      <link>https://tommantonela.github.io/tags/recommender-systems/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/recommender-systems/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social Media</title>
-      <link>https://tommantonela.github.io/tags/social-media/</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/social-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>User Profiling</title>
       <link>https://tommantonela.github.io/tags/user-profiling/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
@@ -121,14 +193,6 @@
       <link>https://tommantonela.github.io/tags/dreams/</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/dreams/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -193,22 +257,6 @@
       <link>https://tommantonela.github.io/tags/hate-speech/</link>
       <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/hate-speech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Link Prediction</title>
-      <link>https://tommantonela.github.io/tags/link-prediction/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/link-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Misinformation</title>
-      <link>https://tommantonela.github.io/tags/misinformation/</link>
-      <pubDate>Sat, 25 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/misinformation/</guid>
       <description></description>
     </item>
     
@@ -413,7 +461,7 @@
     </item>
     
     <item>
-      <title>Micro-blogging communities</title>
+      <title>micro-blogging communities</title>
       <link>https://tommantonela.github.io/tags/micro-blogging-communities/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/micro-blogging-communities/</guid>

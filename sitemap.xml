@@ -19,27 +19,172 @@
   
   <url>
     <loc>https://tommantonela.github.io/publication_types/1/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tommantonela.github.io/authors/antonela-tommasel/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tommantonela.github.io/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tommantonela.github.io/authors/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/claim-detection/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/fact-checking/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/joaquin-saralegui/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/natural-language-processing/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication_types/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/text-classification/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication/2022jccc/</loc>
+    <lastmod>2022-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/alfonsina-soto-pineda/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/camila-lospinoso/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tommantonela.github.io/authors/daniela-godoy/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication/2022jaiio/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/diego-garcia-olano/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/ezequiel-valicenti/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/gender-bias/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/laura-giosa/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/mariana-brocca/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/silvia-schiaffino/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/text-analysis/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/diffusion-models/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication/2022recsys/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/authors/filippo-menczer/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/link-prediction/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/misinformation/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/recommender-systems/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/tags/social-media/</loc>
+    <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication_types/2/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tommantonela.github.io/publication/2022eaai/</loc>
+    <lastmod>2022-07-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,11 +199,6 @@
   
   <url>
     <loc>https://tommantonela.github.io/tags/fake-news-spreaders/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/authors/filippo-menczer/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -89,31 +229,6 @@
   
   <url>
     <loc>https://tommantonela.github.io/tags/music-recommendation/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/publication_types/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/publication/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/tags/recommender-systems/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/tags/social-media/</loc>
-    <lastmod>2022-07-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/tags/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,11 +293,6 @@
   </url>
   
   <url>
-    <loc>https://tommantonela.github.io/tags/natural-language-processing/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tommantonela.github.io/authors/nerea-herrero/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
   </url>
@@ -200,11 +310,6 @@
   <url>
     <loc>https://tommantonela.github.io/publication/2021sana/</loc>
     <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/publication_types/2/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -259,16 +364,6 @@
   
   <url>
     <loc>https://tommantonela.github.io/publication/2021recsysb/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/tags/link-prediction/</loc>
-    <lastmod>2021-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/tags/misinformation/</loc>
     <lastmod>2021-09-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -924,11 +1019,6 @@
   
   <url>
     <loc>https://tommantonela.github.io/publication/2015eaai/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tommantonela.github.io/authors/silvia-schiaffino/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   

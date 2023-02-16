@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/authors/silvia-schiaffino/</link>
       <atom:link href="https://tommantonela.github.io/authors/silvia-schiaffino/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Schiaffino</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Silvia Schiaffino</title>
       <link>https://tommantonela.github.io/authors/silvia-schiaffino/</link>
     </image>
+    
+    <item>
+      <title>Detección de sesgos en razón del género en decisiones judiciales utilizando PLN</title>
+      <link>https://tommantonela.github.io/publication/2022jaiio/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022jaiio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Personality-aware followee recommendation algorithms: An empirical analysis</title>
