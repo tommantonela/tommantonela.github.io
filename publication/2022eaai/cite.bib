@@ -1,0 +1,13 @@
+@article{TOMMASEL2022105209,
+title = {Identifying emerging smells in software designs based on predicting package dependencies},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {115},
+pages = {105209},
+year = {2022},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2022.105209},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197622002998},
+author = {Antonela Tommasel and J. Andres Diaz-Pace},
+keywords = {Package dependencies, Architectural smells, Link prediction, Cycles, Machine learning},
+abstract = {Software systems naturally evolve, and this evolution often brings design problems that contribute to system degradation. Architectural smells are typical symptoms of such problems, and several of these smells are related to undesired dependencies among packages. The early detection of smells is essential for software engineers to plan ahead for maintenance or refactoring efforts. Although tools for identifying smells exist, they detect the smells once they already exist in the source code when their undesired dependencies are already created. In this work, we explore a forward-looking approach for identifying smells that can emerge in the next system version based on inferring package dependencies that are likely to appear in the system. Our approach takes the current design structure of the system as a network, along with information from previous versions, and applies link prediction techniques from the field of social network analysis. In particular, we consider a group of smells known as instability smells (cyclic dependency, hub-like dependency, and unstable dependency), which fit well with the link prediction model. The approach includes a feedback mechanism to progressively reduce false positives in predictions. An evaluation based on six open-source projects showed that, under certain considerations, the proposed approach can satisfactorily predict missing dependencies and smell configurations thereof. The feedback mechanism led to improvements of up to three times the initial precision values. Furthermore, we have developed a tool for practitioners to apply the approach in their projects.}
+}
