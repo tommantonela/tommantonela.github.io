@@ -5,12 +5,44 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://tommantonela.github.io/tags/data-science/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://tommantonela.github.io/tags/data-visualization/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folium</title>
+      <link>https://tommantonela.github.io/tags/folium/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/folium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>https://tommantonela.github.io/tags/streamlit/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/streamlit/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Claim Detection</title>
