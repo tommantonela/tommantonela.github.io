@@ -5,12 +5,24 @@
     <link>https://tommantonela.github.io/talk/</link>
       <atom:link href="https://tommantonela.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Oct 2020 14:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 14:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://tommantonela.github.io/talk/</link>
     </image>
+    
+    <item>
+      <title>Recommender systems and misinformation: What can we do about them?</title>
+      <link>https://tommantonela.github.io/talk/georgia_2022/</link>
+      <pubDate>Tue, 20 Sep 2022 14:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/talk/georgia_2022/</guid>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract&lt;/h3&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;In recent years, social media has profoundly changed how people consume information to the extent that it arises as one of the primary news sources. One of the most valuable features of social platforms is their potential to propagate information on a large scale. However, the unmoderated nature of social media sites and the potential for automation and fast propagation make it easy for users to share inaccurate or intentionally misleading information, thus threatening access to reliable and trustworthy information. As mediators of online information consumption, recommenders are affected by the proliferation of low-quality and unwanted content, serving as an unintended means for their spread and massive amplification while reducing the quality of predictions. Recently, recommenders have undergone fairness criticism for inducing the creation of filter bubbles, echo chambers, and facilitating opinion manipulation. Similarly, users&amp;rsquo; vulnerability to dis/misinformation can be fostered by data, algorithms, and interaction biases, which limit users&amp;rsquo; openness to contrasting points of view. In this talk, we will explore different aspects related to how misinformation and recommender systems interrelate and how we can tackle that interrelation.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>From Smart Cities to Social Cities: Smart Cities at the Service of Social Good</title>
