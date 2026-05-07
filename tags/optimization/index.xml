@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/tags/optimization/</link>
+      <atom:link href="https://tommantonela.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Optimization</title>
+      <link>https://tommantonela.github.io/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Can Multi-Agent Consensus Improve Quality Tradeoffs in Software Architecture Optimization?</title>
+      <link>https://tommantonela.github.io/publication/2023cibse/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023cibse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metrics-based Approach for Assessing Architecture-Implementation Mappings</title>
+      <link>https://tommantonela.github.io/publication/2022cibse/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022cibse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,92 @@
     <link>https://tommantonela.github.io/tags/</link>
       <atom:link href="https://tommantonela.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tags</title>
       <link>https://tommantonela.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Automated techniques</title>
+      <link>https://tommantonela.github.io/tags/automated-techniques/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/automated-techniques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://tommantonela.github.io/tags/optimization/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dream awareness</title>
+      <link>https://tommantonela.github.io/tags/dream-awareness/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/dream-awareness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dream control</title>
+      <link>https://tommantonela.github.io/tags/dream-control/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/dream-control/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dreams</title>
+      <link>https://tommantonela.github.io/tags/dreams/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/dreams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emotional content</title>
+      <link>https://tommantonela.github.io/tags/emotional-content/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/emotional-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph analysis</title>
+      <link>https://tommantonela.github.io/tags/graph-analysis/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/graph-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucid dreams</title>
+      <link>https://tommantonela.github.io/tags/lucid-dreams/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/lucid-dreams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-body experiences</title>
+      <link>https://tommantonela.github.io/tags/out-of-body-experiences/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/out-of-body-experiences/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data Science</title>
@@ -57,14 +137,6 @@
       <link>https://tommantonela.github.io/tags/fact-checking/</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/fact-checking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Natural Language Processing</title>
-      <link>https://tommantonela.github.io/tags/natural-language-processing/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/natural-language-processing/</guid>
       <description></description>
     </item>
     
@@ -189,6 +261,30 @@
     </item>
     
     <item>
+      <title>Architecture conformance</title>
+      <link>https://tommantonela.github.io/tags/architecture-conformance/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/architecture-conformance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality metrics</title>
+      <link>https://tommantonela.github.io/tags/quality-metrics/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/quality-metrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflexion modeling</title>
+      <link>https://tommantonela.github.io/tags/reflexion-modeling/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/tags/reflexion-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>https://tommantonela.github.io/tags/deep-learning/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
@@ -217,14 +313,6 @@
       <link>https://tommantonela.github.io/tags/smart-mobility/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/tags/smart-mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dreams</title>
-      <link>https://tommantonela.github.io/tags/dreams/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/tags/dreams/</guid>
       <description></description>
     </item>
     

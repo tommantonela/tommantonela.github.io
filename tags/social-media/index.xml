@@ -211,6 +211,120 @@ evolution, which, in turn, can foster the development of mitigation and debunkin
     
     <item>
       <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/architecture-explainability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/architecture-explainability/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/hate-speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/hate-speech/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/misinformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/misinformation/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
       <link>https://tommantonela.github.io/project/royal-society/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/project/royal-society/</guid>

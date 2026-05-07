@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/</link>
       <atom:link href="https://tommantonela.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonela Tommasel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Antonela Tommasel</title>
@@ -52,6 +52,30 @@
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Can Multi-Agent Consensus Improve Quality Tradeoffs in Software Architecture Optimization?</title>
+      <link>https://tommantonela.github.io/publication/2023cibse/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023cibse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LUCID DREAMS AND OUT-OF-BODY EXPERIENCES REPORTS: DIFFERENCES IN EMOTIONAL CONTENT, DREAM AWARENESS, AND DREAM CONTROL</title>
+      <link>https://tommantonela.github.io/publication/2023psyarxivb/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023psyarxivb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural differences between non-lucid, lucid dreams and out-of-body experience reports assessed by graph analysis</title>
+      <link>https://tommantonela.github.io/publication/2023psyarxiva/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023psyarxiva/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -131,6 +155,14 @@
       <link>https://tommantonela.github.io/publication/2022umapb/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/publication/2022umapb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Metrics-based Approach for Assessing Architecture-Implementation Mappings</title>
+      <link>https://tommantonela.github.io/publication/2022cibse/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2022cibse/</guid>
       <description></description>
     </item>
     
@@ -934,6 +966,120 @@ some open issues and potential extensions.&lt;/p&gt;
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/publication/2014jserd/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/architecture-explainability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/architecture-explainability/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/hate-speech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/hate-speech/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>OHARS</title>
+      <link>https://tommantonela.github.io/project/misinformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/project/misinformation/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Awarded as part of the Bilateral Collaboration Projects between CONICET &amp;amp; Royal Society.&lt;/p&gt;
+&lt;p&gt;PIs: Daniela Godoy &amp;amp; Arkaitz Zubiaga&lt;/p&gt;
+&lt;p&gt;Collaborators (in alphabetical order):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rabab Alkhalifa&lt;/li&gt;
+&lt;li&gt;Aiqi Jiang&lt;/li&gt;
+&lt;li&gt;Matthew Purver&lt;/li&gt;
+&lt;li&gt;Juan Manuel Rodriguez&lt;/li&gt;
+&lt;li&gt;Silvia Schiaffino&lt;/li&gt;
+&lt;li&gt;Antonela Tommasel&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is common for online social media platforms to recommend content to its users through features such as
+“whom to follow” or personalised content. It has been shown however that social media platforms also spread
+harmful contents that have proven problematic. This project aims to detect and mitigate content flagged as
+online harm, which includes hate speech and misinformation. These problematic issues in social media have
+led to mental health issues owing to hate speech messages, as well as a disruption of the democratic system
+due to the diffusion of misinformation. Identification of harmful content online has however proven difficult, with
+not only the scientific community but also social media platforms and governments worldwide calling for
+support to develop effective methods.&lt;/p&gt;
+&lt;p&gt;This project aims to develop novel recommendation algorithms for social media that prevent the
+amplification of online harms including misinformation and hate speech. Sources that are likely to generate
+this sort of online harm will be identified and will be flagged prior to making decisions with the
+recommender system. The algorithms will need to consider three main aspects: (1) detection of
+misinformation and abusive language from a multilingual perspective, for English and Spanish (2)
+incorporation of the notion of content toxicity, and accounts that promote it, into the inner components of
+recommendation algorithms (3) definition of mechanisms to counteract user exposure to online harm, such
+as the addition of features (such as provenance and context of information) that will increase
+user-awareness and help foster an informed decision making. The algorithms will also need to prevent
+potential biases inherent to traditional recommender systems, such as popularity and homogeneity.&lt;/p&gt;
+&lt;/div&gt;</description>
     </item>
     
     <item>

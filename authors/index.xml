@@ -5,7 +5,7 @@
     <link>https://tommantonela.github.io/authors/</link>
       <atom:link href="https://tommantonela.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 19 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -13,28 +13,126 @@
     </image>
     
     <item>
-      <title></title>
-      <link>https://tommantonela.github.io/authors/admin/</link>
-      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I&#39;m Antonela Tommasel. I&#39;m currently a Researcher at 
-&lt;a href=&#34;https://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt;
-, working in the Recommender Systems group at 
-&lt;a href=&#34;http://www.isistan.unicen.edu.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISISTAN&lt;/a&gt;
- Research Institute in Tandil, Argentina. I&#39;m also an Adjunct Professor at 
-&lt;a href=&#34;http://www.unicen.edu.ar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNICEN&lt;/a&gt;
-.&lt;/p&gt;
-&lt;p&gt;My main research interests include social computing applications of machine learning and recommender systems.&lt;/p&gt;
-&lt;p&gt;8+ years of research experience. 11+ years of teaching experience.&lt;/p&gt;
-</description>
+      <title>Andre van Hoorn</title>
+      <link>https://tommantonela.github.io/authors/andre-van-hoorn/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/andre-van-hoorn/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Antonela Tommasel</title>
       <link>https://tommantonela.github.io/authors/antonela-tommasel/</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/antonela-tommasel/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>J. Andrés Diaz Pace</title>
+      <link>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago Vidal</title>
+      <link>https://tommantonela.github.io/authors/santiago-vidal/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/santiago-vidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Frank</title>
+      <link>https://tommantonela.github.io/authors/sebastian-frank/</link>
+      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/sebastian-frank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecilia Forcato</title>
+      <link>https://tommantonela.github.io/authors/cecilia-forcato/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/cecilia-forcato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniela Godoy</title>
+      <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco Gallo</title>
+      <link>https://tommantonela.github.io/authors/francisco-gallo/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/francisco-gallo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ignacio Spiousas</title>
+      <link>https://tommantonela.github.io/authors/ignacio-spiousas/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/ignacio-spiousas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Miguel Gasca Rolín</title>
+      <link>https://tommantonela.github.io/authors/miguel-gasca-rolin/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/miguel-gasca-rolin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nerea Herrero</title>
+      <link>https://tommantonela.github.io/authors/nerea-herrero/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/nerea-herrero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Gleiser</title>
+      <link>https://tommantonela.github.io/authors/pablo-gleiser/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/pablo-gleiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Ramele</title>
+      <link>https://tommantonela.github.io/authors/rodrigo-ramele/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/rodrigo-ramele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tommantonela.github.io/authors/admin/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&#39;m Antonela Tommasel. I&#39;m currently an Assistant Professor at 
+&lt;a href=&#34;https://www.jku.at/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Johannes Kepler University Linz&lt;/a&gt;
+, and a Researcher at 
+&lt;a href=&#34;https://www.conicet.gov.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CONICET&lt;/a&gt;
+, working in the Recommender Systems group at 
+&lt;a href=&#34;http://www.isistan.unicen.edu.ar/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISISTAN&lt;/a&gt;
+ Research Institute in Tandil, Argentina, and also an Assistant Professor at 
+&lt;a href=&#34;http://www.unicen.edu.ar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UNICEN&lt;/a&gt;
+.&lt;/p&gt;
+&lt;p&gt;My main research interests include social computing applications of machine learning and recommender systems.&lt;/p&gt;
+&lt;p&gt;12+ years of research experience. 15+ years of teaching experience.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -62,14 +160,6 @@
     </item>
     
     <item>
-      <title>Daniela Godoy</title>
-      <link>https://tommantonela.github.io/authors/daniela-godoy/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/daniela-godoy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Diego García-Olano</title>
       <link>https://tommantonela.github.io/authors/diego-garcia-olano/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
@@ -82,14 +172,6 @@
       <link>https://tommantonela.github.io/authors/ezequiel-valicenti/</link>
       <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/ezequiel-valicenti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>J. Andrés Díaz Pace</title>
-      <link>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</guid>
       <description></description>
     </item>
     
@@ -134,6 +216,22 @@
     </item>
     
     <item>
+      <title>Hernan C. Vazquez</title>
+      <link>https://tommantonela.github.io/authors/hernan-c.-vazquez/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/hernan-c.-vazquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Cian Berrios</title>
+      <link>https://tommantonela.github.io/authors/rodrigo-cian-berrios/</link>
+      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/authors/rodrigo-cian-berrios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Julian Mastieri</title>
       <link>https://tommantonela.github.io/authors/julian-mastieri/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
@@ -146,38 +244,6 @@
       <link>https://tommantonela.github.io/authors/maria-pia-goicoechea/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://tommantonela.github.io/authors/maria-pia-goicoechea/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cecilia Forcato</title>
-      <link>https://tommantonela.github.io/authors/cecilia-forcato/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/cecilia-forcato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Francisco Gallo</title>
-      <link>https://tommantonela.github.io/authors/francisco-gallo/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/francisco-gallo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nerea Herrero</title>
-      <link>https://tommantonela.github.io/authors/nerea-herrero/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/nerea-herrero/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pablo Gleiser</title>
-      <link>https://tommantonela.github.io/authors/pablo-gleiser/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://tommantonela.github.io/authors/pablo-gleiser/</guid>
       <description></description>
     </item>
     
