@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markus Schedl | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/markus-schedl/</link>
+      <atom:link href="https://tommantonela.github.io/authors/markus-schedl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markus Schedl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Markus Schedl</title>
+      <link>https://tommantonela.github.io/authors/markus-schedl/</link>
+    </image>
+    
+    <item>
+      <title>REFLECT: Tutorial on Reflecting on Bias in LLMs through Human-Centered Perspectives</title>
+      <link>https://tommantonela.github.io/publication/2026-reflect-tutorial-on-reflecting-on-bias-in-llms-through-human-centered-perspectives/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-reflect-tutorial-on-reflecting-on-bias-in-llms-through-human-centered-perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cognitive Effects and Biases in Large Language Models</title>
+      <link>https://tommantonela.github.io/publication/2026-cognitive-effects-and-biases-in-large-language-models/</link>
+      <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-cognitive-effects-and-biases-in-large-language-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing Positional Bias in Large Language Models: A Multi-Model Evaluation of Prompt Order Effects</title>
+      <link>https://tommantonela.github.io/publication/2025-characterizing-positional-bias-in-large-language-models-a-multi-model-evaluation-of-p/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-characterizing-positional-bias-in-large-language-models-a-multi-model-evaluation-of-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Carbon Footprint of Recommender Systems Beyond Training Time</title>
+      <link>https://tommantonela.github.io/publication/2025-investigating-carbon-footprint-of-recommender-systems-beyond-training-time/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-investigating-carbon-footprint-of-recommender-systems-beyond-training-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-tuning for Inference-efficient Calibrated Recommendations</title>
+      <link>https://tommantonela.github.io/publication/2025-fine-tuning-for-inference-efficient-calibrated-recommendations/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-fine-tuning-for-inference-efficient-calibrated-recommendations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

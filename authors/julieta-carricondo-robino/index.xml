@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julieta Carricondo Robino | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/julieta-carricondo-robino/</link>
+      <atom:link href="https://tommantonela.github.io/authors/julieta-carricondo-robino/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julieta Carricondo Robino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Julieta Carricondo Robino</title>
+      <link>https://tommantonela.github.io/authors/julieta-carricondo-robino/</link>
+    </image>
+    
+    <item>
+      <title>eParticipation: Citizen Engagement, Challenges, and Technologies for a Two-way Relationship</title>
+      <link>https://tommantonela.github.io/publication/2024-eparticipation-citizen-engagement-challenges-and-technologies-for-a-two-way-relations/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-eparticipation-citizen-engagement-challenges-and-technologies-for-a-two-way-relations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>La eParticipación ciudadana: problemáticas y tecnologías hacia una relación bidireccional</title>
+      <link>https://tommantonela.github.io/publication/2023-la-eparticipacion-ciudadana-problematicas-y-tecnologias-hacia-una-relacion-bidireccio/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023-la-eparticipacion-ciudadana-problematicas-y-tecnologias-hacia-una-relacion-bidireccio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,60 @@
     <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
       <atom:link href="https://tommantonela.github.io/authors/juan-manuel-rodriguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Manuel Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Juan Manuel Rodriguez</title>
       <link>https://tommantonela.github.io/authors/juan-manuel-rodriguez/</link>
     </image>
+    
+    <item>
+      <title>Training seeds and model-selection stability in recommender-system evaluation</title>
+      <link>https://tommantonela.github.io/publication/2026-training-seeds-and-model-selection-stability-in-recommender-system-evaluation/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-training-seeds-and-model-selection-stability-in-recommender-system-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpanishTweetsCOVID-19: A Social Media Enriched Covid-19 Twitter Spanish Dataset</title>
+      <link>https://tommantonela.github.io/publication/2025-spanishtweetscovid-19-a-social-media-enriched-covid-19-twitter-spanish-dataset/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-spanishtweetscovid-19-a-social-media-enriched-covid-19-twitter-spanish-dataset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BEHAV-E! You are Not Just a Number to Us, but an R^2048 Embedding</title>
+      <link>https://tommantonela.github.io/publication/2025-behav-e-you-are-not-just-a-number-to-us-but-an-r2048-embedding/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-behav-e-you-are-not-just-a-number-to-us-but-an-r2048-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Countering the Spread: An Approach to Identify Misinformation Spreaders in Social Media</title>
+      <link>https://tommantonela.github.io/publication/2025-countering-the-spread-an-approach-to-identify-misinformation-spreaders-in-social-medi/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-countering-the-spread-an-approach-to-identify-misinformation-spreaders-in-social-medi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging User History with Transformers for News Clicking: The DArgk Approach</title>
+      <link>https://tommantonela.github.io/publication/2024-leveraging-user-history-with-transformers-for-news-clicking-the-dargk-approach/</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-leveraging-user-history-with-transformers-for-news-clicking-the-dargk-approach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Words: A Preliminary Study for Multimodal Hate Speech Detection</title>
+      <link>https://tommantonela.github.io/publication/2024-beyond-words-a-preliminary-study-for-multimodal-hate-speech-detection/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-beyond-words-a-preliminary-study-for-multimodal-hate-speech-detection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Following the Trail of Fake News Spreaders in Social Media: A Deep Learning Model</title>

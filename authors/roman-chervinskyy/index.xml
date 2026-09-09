@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roman Chervinskyy | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/roman-chervinskyy/</link>
+      <atom:link href="https://tommantonela.github.io/authors/roman-chervinskyy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Roman Chervinskyy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Roman Chervinskyy</title>
+      <link>https://tommantonela.github.io/authors/roman-chervinskyy/</link>
+    </image>
+    
+    <item>
+      <title>From emotional hooks to conspiratorial claims: A teen-focused game for reflecting on misinformation interactions</title>
+      <link>https://tommantonela.github.io/publication/2026-from-emotional-hooks-to-conspiratorial-claims-a-teen-focused-game-for-reflecting-on-m/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-from-emotional-hooks-to-conspiratorial-claims-a-teen-focused-game-for-reflecting-on-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Misinformation Spreaders through Multi-Source User Modeling</title>
+      <link>https://tommantonela.github.io/publication/2026-identifying-misinformation-spreaders-through-multi-source-user-modeling/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-identifying-misinformation-spreaders-through-multi-source-user-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

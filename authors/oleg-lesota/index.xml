@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oleg Lesota | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/oleg-lesota/</link>
+      <atom:link href="https://tommantonela.github.io/authors/oleg-lesota/index.xml" rel="self" type="application/rss+xml" />
+    <description>Oleg Lesota</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Oleg Lesota</title>
+      <link>https://tommantonela.github.io/authors/oleg-lesota/</link>
+    </image>
+    
+    <item>
+      <title>Training seeds and model-selection stability in recommender-system evaluation</title>
+      <link>https://tommantonela.github.io/publication/2026-training-seeds-and-model-selection-stability-in-recommender-system-evaluation/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-training-seeds-and-model-selection-stability-in-recommender-system-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Price Fairness? Evaluating Energy – Fairness – Accuracy Trade-off in Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2026-what-price-fairness-evaluating-energy-fairness-accuracy-trade-off-in-recommender-syst/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-what-price-fairness-evaluating-energy-fairness-accuracy-trade-off-in-recommender-syst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy Footprint of Data Reduction Strategies for Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2026-energy-footprint-of-data-reduction-strategies-for-recommender-systems/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-energy-footprint-of-data-reduction-strategies-for-recommender-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Carbon Footprint of Recommender Systems Beyond Training Time</title>
+      <link>https://tommantonela.github.io/publication/2025-investigating-carbon-footprint-of-recommender-systems-beyond-training-time/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-investigating-carbon-footprint-of-recommender-systems-beyond-training-time/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-tuning for Inference-efficient Calibrated Recommendations</title>
+      <link>https://tommantonela.github.io/publication/2025-fine-tuning-for-inference-efficient-calibrated-recommendations/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-fine-tuning-for-inference-efficient-calibrated-recommendations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

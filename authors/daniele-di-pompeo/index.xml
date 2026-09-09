@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniele Di Pompeo | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/daniele-di-pompeo/</link>
+      <atom:link href="https://tommantonela.github.io/authors/daniele-di-pompeo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniele Di Pompeo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Daniele Di Pompeo</title>
+      <link>https://tommantonela.github.io/authors/daniele-di-pompeo/</link>
+    </image>
+    
+    <item>
+      <title>A Surrogate-based Approach for Fast Multi-objective Architectural Refactoring Optimization</title>
+      <link>https://tommantonela.github.io/publication/2026-a-surrogate-based-approach-for-fast-multi-objective-architectural-refactoring-optimiz/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-a-surrogate-based-approach-for-fast-multi-objective-architectural-refactoring-optimiz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

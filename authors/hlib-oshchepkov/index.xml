@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hlib Oshchepkov | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/hlib-oshchepkov/</link>
+      <atom:link href="https://tommantonela.github.io/authors/hlib-oshchepkov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hlib Oshchepkov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hlib Oshchepkov</title>
+      <link>https://tommantonela.github.io/authors/hlib-oshchepkov/</link>
+    </image>
+    
+    <item>
+      <title>How Prompting Shapes LLM-Generated Explanations for Recommender Systems: A Multi-Prompt Comparison Across Domains</title>
+      <link>https://tommantonela.github.io/publication/2026-how-prompting-shapes-llm-generated-explanations-for-recommender-systems-a-multi-promp/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-how-prompting-shapes-llm-generated-explanations-for-recommender-systems-a-multi-promp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

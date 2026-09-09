@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo M. Gleiser | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/pablo-m.-gleiser/</link>
+      <atom:link href="https://tommantonela.github.io/authors/pablo-m.-gleiser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo M. Gleiser</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 09 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Pablo M. Gleiser</title>
+      <link>https://tommantonela.github.io/authors/pablo-m.-gleiser/</link>
+    </image>
+    
+    <item>
+      <title>Structural differences between non-lucid dreams, lucid dreams and out-of-body experience reports assessed by graph analysis</title>
+      <link>https://tommantonela.github.io/publication/2023-structural-differences-between-non-lucid-dreams-lucid-dreams-and-out-of-body-experien/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023-structural-differences-between-non-lucid-dreams-lucid-dreams-and-out-of-body-experien/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facundo Leonardo Chayle | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/facundo-leonardo-chayle/</link>
+      <atom:link href="https://tommantonela.github.io/authors/facundo-leonardo-chayle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Facundo Leonardo Chayle</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Facundo Leonardo Chayle</title>
+      <link>https://tommantonela.github.io/authors/facundo-leonardo-chayle/</link>
+    </image>
+    
+    <item>
+      <title>Una Arquitectura Híbrida Extensible para Sistemas IA-Ready</title>
+      <link>https://tommantonela.github.io/publication/2025-una-arquitectura-hibrida-extensible-para-sistemas-ia-ready/</link>
+      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-una-arquitectura-hibrida-extensible-para-sistemas-ia-ready/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arquitecturas para Aplicaciones con Inteligencia Artificial: Un Mapeo Sistemático de la Literatura</title>
+      <link>https://tommantonela.github.io/publication/2024-arquitecturas-para-aplicaciones-con-inteligencia-artificial-un-mapeo-sistematico-de-l/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-arquitecturas-para-aplicaciones-con-inteligencia-artificial-un-mapeo-sistematico-de-l/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

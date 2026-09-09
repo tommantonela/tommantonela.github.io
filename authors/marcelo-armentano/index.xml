@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Armentano | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/marcelo-armentano/</link>
+      <atom:link href="https://tommantonela.github.io/authors/marcelo-armentano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcelo Armentano</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marcelo Armentano</title>
+      <link>https://tommantonela.github.io/authors/marcelo-armentano/</link>
+    </image>
+    
+    <item>
+      <title>How Much Longer?: Estimating Bus Arrival Times with Predictive Models</title>
+      <link>https://tommantonela.github.io/publication/2025-how-much-longer-estimating-bus-arrival-times-with-predictive-models/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-how-much-longer-estimating-bus-arrival-times-with-predictive-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

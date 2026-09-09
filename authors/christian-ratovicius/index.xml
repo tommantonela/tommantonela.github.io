@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Ratovicius | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/christian-ratovicius/</link>
+      <atom:link href="https://tommantonela.github.io/authors/christian-ratovicius/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christian Ratovicius</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Christian Ratovicius</title>
+      <link>https://tommantonela.github.io/authors/christian-ratovicius/</link>
+    </image>
+    
+    <item>
+      <title>Distilling Multilingual Models for Few-Shot Gender-Bias Detection in Spanish Judicial Texts: A Systematic Literature Review</title>
+      <link>https://tommantonela.github.io/publication/2026-distilling-multilingual-models-for-few-shot-gender-bias-detection-in-spanish-judicial/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-distilling-multilingual-models-for-few-shot-gender-bias-detection-in-spanish-judicial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

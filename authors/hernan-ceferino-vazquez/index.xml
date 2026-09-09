@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hernán Ceferino Vazquez | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/hernan-ceferino-vazquez/</link>
+      <atom:link href="https://tommantonela.github.io/authors/hernan-ceferino-vazquez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hernán Ceferino Vazquez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Hernán Ceferino Vazquez</title>
+      <link>https://tommantonela.github.io/authors/hernan-ceferino-vazquez/</link>
+    </image>
+    
+    <item>
+      <title>The JavaScript Package Selection Task: A Comparative Experiment Using an LLM-based Approach</title>
+      <link>https://tommantonela.github.io/publication/2024-the-javascript-package-selection-task-a-comparative-experiment-using-an-llm-based-app/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-the-javascript-package-selection-task-a-comparative-experiment-using-an-llm-based-app/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Capilla | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/rafael-capilla/</link>
+      <atom:link href="https://tommantonela.github.io/authors/rafael-capilla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Capilla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rafael Capilla</title>
+      <link>https://tommantonela.github.io/authors/rafael-capilla/</link>
+    </image>
+    
+    <item>
+      <title>A Hybrid RAG for Answering Questions about Technical Documentation from Github Projects</title>
+      <link>https://tommantonela.github.io/publication/2026-a-hybrid-rag-for-answering-questions-about-technical-documentation-from-github-projec/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-a-hybrid-rag-for-answering-questions-about-technical-documentation-from-github-projec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture Exploration and Reflection Meet LLM-based Agents</title>
+      <link>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helping Novice Architects to Make Quality Design Decisions Using an LLM-Based Assistant</title>
+      <link>https://tommantonela.github.io/publication/2024-helping-novice-architects-to-make-quality-design-decisions-using-an-llm-based-assista/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-helping-novice-architects-to-make-quality-design-decisions-using-an-llm-based-assista/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

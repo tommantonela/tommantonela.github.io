@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Pablos Sarabia | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/rafael-pablos-sarabia/</link>
+      <atom:link href="https://tommantonela.github.io/authors/rafael-pablos-sarabia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Pablos Sarabia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rafael Pablos Sarabia</title>
+      <link>https://tommantonela.github.io/authors/rafael-pablos-sarabia/</link>
+    </image>
+    
+    <item>
+      <title>Re2Dan: Retrieval of Medical Documents for e-Health in Danish</title>
+      <link>https://tommantonela.github.io/publication/2023-re2dan-retrieval-of-medical-documents-for-e-health-in-danish/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023-re2dan-retrieval-of-medical-documents-for-e-health-in-danish/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

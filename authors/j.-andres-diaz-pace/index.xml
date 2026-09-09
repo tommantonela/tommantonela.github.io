@@ -5,12 +5,92 @@
     <link>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</link>
       <atom:link href="https://tommantonela.github.io/authors/j.-andres-diaz-pace/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Andrés Diaz Pace</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>J. Andrés Diaz Pace</title>
       <link>https://tommantonela.github.io/authors/j.-andres-diaz-pace/</link>
     </image>
+    
+    <item>
+      <title>A Surrogate-based Approach for Fast Multi-objective Architectural Refactoring Optimization</title>
+      <link>https://tommantonela.github.io/publication/2026-a-surrogate-based-approach-for-fast-multi-objective-architectural-refactoring-optimiz/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-a-surrogate-based-approach-for-fast-multi-objective-architectural-refactoring-optimiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Text Mining and Classification Approach for Analyzing Architecture Decision Records</title>
+      <link>https://tommantonela.github.io/publication/2026-a-text-mining-and-classification-approach-for-analyzing-architecture-decision-records/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-a-text-mining-and-classification-approach-for-analyzing-architecture-decision-records/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Hybrid RAG for Answering Questions about Technical Documentation from Github Projects</title>
+      <link>https://tommantonela.github.io/publication/2026-a-hybrid-rag-for-answering-questions-about-technical-documentation-from-github-projec/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-a-hybrid-rag-for-answering-questions-about-technical-documentation-from-github-projec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture Exploration and Reflection Meet LLM-based Agents</title>
+      <link>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging Monte Carlo Tree Search for Group Recommendation</title>
+      <link>https://tommantonela.github.io/publication/2024-leveraging-monte-carlo-tree-search-for-group-recommendation/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-leveraging-monte-carlo-tree-search-for-group-recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helping Novice Architects to Make Quality Design Decisions Using an LLM-Based Assistant</title>
+      <link>https://tommantonela.github.io/publication/2024-helping-novice-architects-to-make-quality-design-decisions-using-an-llm-based-assista/</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-helping-novice-architects-to-make-quality-design-decisions-using-an-llm-based-assista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Gender Bias in Legal Texts Using Classification and LLMs</title>
+      <link>https://tommantonela.github.io/publication/2024-detection-of-gender-bias-in-legal-texts-using-classification-and-llms/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-detection-of-gender-bias-in-legal-texts-using-classification-and-llms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JavaScript Package Selection Task: A Comparative Experiment Using an LLM-based Approach</title>
+      <link>https://tommantonela.github.io/publication/2024-the-javascript-package-selection-task-a-comparative-experiment-using-an-llm-based-app/</link>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2024-the-javascript-package-selection-task-a-comparative-experiment-using-an-llm-based-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The JavaScript Package Selection Task: A Comparative Experiment Using ChatGPT</title>
+      <link>https://tommantonela.github.io/publication/2023-the-javascript-package-selection-task-a-comparative-experiment-using-chatgpt/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023-the-javascript-package-selection-task-a-comparative-experiment-using-chatgpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of gender bias in judicial decisions</title>
+      <link>https://tommantonela.github.io/publication/2023-detection-of-gender-bias-in-judicial-decisions/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2023-detection-of-gender-bias-in-judicial-decisions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Can Multi-Agent Consensus Improve Quality Tradeoffs in Software Architecture Optimization?</title>

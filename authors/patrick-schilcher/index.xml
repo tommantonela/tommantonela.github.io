@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Schilcher | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/patrick-schilcher/</link>
+      <atom:link href="https://tommantonela.github.io/authors/patrick-schilcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Schilcher</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Patrick Schilcher</title>
+      <link>https://tommantonela.github.io/authors/patrick-schilcher/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing Positional Bias in Large Language Models: A Multi-Model Evaluation of Prompt Order Effects</title>
+      <link>https://tommantonela.github.io/publication/2025-characterizing-positional-bias-in-large-language-models-a-multi-model-evaluation-of-p/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-characterizing-positional-bias-in-large-language-models-a-multi-model-evaluation-of-p/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

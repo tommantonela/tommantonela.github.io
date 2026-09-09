@@ -5,12 +5,20 @@
     <link>https://tommantonela.github.io/publication_types/6/</link>
       <atom:link href="https://tommantonela.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>6</title>
       <link>https://tommantonela.github.io/publication_types/6/</link>
     </image>
+    
+    <item>
+      <title>Energy Footprint of Data Reduction Strategies for Recommender Systems</title>
+      <link>https://tommantonela.github.io/publication/2026-energy-footprint-of-data-reduction-strategies-for-recommender-systems/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-energy-footprint-of-data-reduction-strategies-for-recommender-systems/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On the Evaluation of Community Detection Algorithms on Heterogeneous Social Media Data</title>

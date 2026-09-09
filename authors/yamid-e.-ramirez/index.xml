@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yamid E. Ramírez | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/yamid-e.-ramirez/</link>
+      <atom:link href="https://tommantonela.github.io/authors/yamid-e.-ramirez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yamid E. Ramírez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Yamid E. Ramírez</title>
+      <link>https://tommantonela.github.io/authors/yamid-e.-ramirez/</link>
+    </image>
+    
+    <item>
+      <title>Architecture Exploration and Reflection Meet LLM-based Agents</title>
+      <link>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2025-architecture-exploration-and-reflection-meet-llm-based-agents/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
