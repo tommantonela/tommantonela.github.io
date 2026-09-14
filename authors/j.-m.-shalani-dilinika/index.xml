@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. M. Shalani Dilinika | Antonela Tommasel</title>
+    <link>https://tommantonela.github.io/authors/j.-m.-shalani-dilinika/</link>
+      <atom:link href="https://tommantonela.github.io/authors/j.-m.-shalani-dilinika/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. M. Shalani Dilinika</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>J. M. Shalani Dilinika</title>
+      <link>https://tommantonela.github.io/authors/j.-m.-shalani-dilinika/</link>
+    </image>
+    
+    <item>
+      <title>Overview and Joint Report of the Voight-Kampff Task of the ELOQUENT 2026 Lab for Evaluating Generative Language Model Quality: Notebook for the ELOQUENT Lab at CLEF 2026</title>
+      <link>https://tommantonela.github.io/publication/2026-overview-and-joint-report-of-the-voight-kampff-task-of-the-eloquent-2026-lab-for-eval/</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://tommantonela.github.io/publication/2026-overview-and-joint-report-of-the-voight-kampff-task-of-the-eloquent-2026-lab-for-eval/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
